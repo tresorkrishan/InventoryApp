@@ -35,6 +35,7 @@ import {
   Button,
 } from "reactstrap";
 import { useHistory } from "react-router-dom";
+import { CountryDropdown, RegionDropdown } from "react-country-region-selector";
 
 // core components
 
@@ -44,9 +45,19 @@ function CustomerForm() {
   const [Mobile_No, setMobile_No] = useState("");
   const [E_Mail, setEmail] = useState("");
   const [City, setCity] = useState("");
+  const [country, setCountry] = useState("India");
+  const [state, setState] = useState("");
   const [Status, setStatus] = useState("");
   // let reqBody = {};
   let history = useHistory();
+
+  const selectCountry = () => {
+    setCountry({ country: "India" });
+  };
+
+  const selectRegion = (val) => {
+    setState(val);
+  };
 
   const redirectToAllreadySignIn = () => {
     history.push("/admin/mobileSignIn");
@@ -59,6 +70,7 @@ function CustomerForm() {
       Name: Name,
       Mobile_No: Mobile_No,
       E_Mail: E_Mail,
+      State_Code: state,
       // Status: Status,
       City: City,
     };
@@ -78,6 +90,7 @@ function CustomerForm() {
         setEmail("");
         setMobile_No("");
         setCity("");
+        history.push("/admin/dashboard");
       }
 
       setSubmitting(true);
@@ -117,7 +130,7 @@ function CustomerForm() {
               <Form onSubmit={handleSubmit}>
                 <CardBody
                   style={{
-                    height: "286px",
+                    height: "400px",
                     display: "flex",
                     alignItems: "center ",
                     justifyContent: "center",
@@ -174,6 +187,27 @@ function CustomerForm() {
                           onChange={(e) => setCity(e.target.value)}
                           className="form-control"
                           required
+                        />
+                      </FormGroup>
+                    </Col>
+                    <Col className="pr-1" md="12">
+                      <FormGroup>
+                        <label>Counntry</label>
+                        <CountryDropdown
+                          value={country}
+                          onChange={selectCountry}
+                          className="form-control"
+                        />
+                      </FormGroup>
+                    </Col>
+                    <Col className="pr-1" md="12">
+                      <FormGroup>
+                        <label>State</label>
+                        <RegionDropdown
+                          country={country}
+                          value={state}
+                          onChange={(val) => selectRegion(val)}
+                          className="form-control"
                         />
                       </FormGroup>
                     </Col>
