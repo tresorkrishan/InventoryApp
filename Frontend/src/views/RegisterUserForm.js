@@ -14,7 +14,8 @@ import {
 import { useHistory } from "react-router-dom";
 import TextField from "@material-ui/core/TextField";
 import axios from "axios";
-import Footer from "components/Footer/Footer";
+// import Footer from "components/Footer/Footer";
+import BASE_URL from "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/src/assets/config/config.ts";
 
 function RegisterUserForm() {
   const [submitting, setSubmitting] = useState(false);
@@ -40,7 +41,7 @@ function RegisterUserForm() {
 
   // ----------------Function to fetch State, Store Loctions and ERP ID--------//
   const getCategory = async () => {
-    let response = await axios.post("http://localhost:3002/getCategory");
+    let response = await axios.post(`${BASE_URL}getCategory`);
     let categoryData = response.data.data;
     setAllCategories(categoryData);
     // console.log("dcata is us ", categoryData);
@@ -63,7 +64,7 @@ function RegisterUserForm() {
     };
     console.log("sss", formData);
     try {
-      let res = await fetch("http://localhost:3002/prod", {
+      let res = await fetch(`${BASE_URL}postuserdata`, {
         method: "POST",
         body: JSON.stringify(formData),
         headers: { "Content-type": "application/json; charset=UTF-8" },

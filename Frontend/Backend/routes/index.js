@@ -22,7 +22,7 @@ router.get("/", function (req, res, next) {
   res.render("index", { title: "Express" });
 });
 
-router.get("/data", async function (req, res, next) {
+router.get("/productdata", async function (req, res, next) {
   try {
     let productCount = [];
     let prudctAval = false;
@@ -41,10 +41,8 @@ router.get("/data", async function (req, res, next) {
       }
       skip = skip + 1000;
       product.push(...data.value);
-
-      console.log("product", skip);
-
-      console.log("product", product);
+      // console.log("product", skip);
+      // console.log("product", product);
     }
     res.json(product);
   } catch (error) {
@@ -52,11 +50,9 @@ router.get("/data", async function (req, res, next) {
   }
 });
 
-router.post("/prod", async function (req, res, next) {
+router.post("/postuserdata", async function (req, res, next) {
   try {
     let reqBody = req.body;
-    // console.log("data", req.body);
-
     const data = await postData({
       path: "Tresor Systems Pvt Ltd",
       oDataPath: "/iPadCustomerCapturingModification",
@@ -111,7 +107,7 @@ router.get("/customerData", async function (req, res, next) {
 router.post("/getCategory", (req, res) => {
   CSVToJSON()
     .fromFile(
-      "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/Inventory-Backend/routes/Location_data.csv"
+      "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/Backend/routes/Location_data.csv"
     )
     .then((data) => {
       res.json({

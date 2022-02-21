@@ -11,33 +11,26 @@ import {
   FormGroup,
   Button,
 } from "reactstrap";
-// import { useHistory } from "react-router-dom";
 import TextField from "@material-ui/core/TextField";
 import axios from "axios";
-// import Footer from "components/Footer/Footer";
 import BarLoader from "react-spinners/BarLoader";
+import BASE_URL from "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/src/assets/config/config.ts";
 
 function UpdateUserForm() {
-  //   const [submitting, setSubmitting] = useState(false);
   const [loading, setLoading] = useState(true);
   const [Name, setName] = useState("");
   const [Mobile_No, setMobile_No] = useState("");
   const [E_Mail, setEmail] = useState("");
-  //   const [City, setCity] = useState("");
   const [Gender, setGender] = useState("");
-  // const [state, setState] = useState("");
-  // const [Status, setStatus] = useState("");
   const [isError, setIsError] = useState(false);
   const [isEmailError, setIsEmailError] = useState(false);
   const [isNameError, setIsNameError] = useState(false);
-  //   const [isCityError, setIsCityError] = useState(false);
+
   const [mainCategory, setMainCategory] = useState("");
   const [User, setUser] = useState([]);
   const [allCategories, SetAllCategories] = useState([]);
 
   const [subCategory, setSubCategory] = useState("");
-  //   const [categoryDescription, setCategoryDescription] = useState("");
-  //   let history = useHistory();
 
   useEffect(() => {
     getDatabyPhoneNumber();
@@ -46,7 +39,7 @@ function UpdateUserForm() {
 
   // ----------------Function to fetch State, Store Loctions and ERP ID--------//
   const getCategory = async () => {
-    let response = await axios.post("http://localhost:3002/getCategory");
+    let response = await axios.post(`${BASE_URL}getCategory`);
     let mydata = response.data.data;
     SetAllCategories(mydata);
     // console.log("dcata is us ", categoryData);
@@ -54,7 +47,8 @@ function UpdateUserForm() {
   };
 
   const getDatabyPhoneNumber = async () => {
-    let response = await axios.get("http://localhost:3002/customerData");
+    let response = await axios.get(`${BASE_URL}postuserdata`);
+
     let categoryData = response.data.data.value[0];
     console.log("mydata sii", categoryData);
     setUser(categoryData);
@@ -69,57 +63,6 @@ function UpdateUserForm() {
     return categoryData;
   };
 
-  //   let unique = [...new Set(User.map((item) => item.MainCategory))];
-  //   console.log("unique is ", unique);
-
-  //   const handleSubmit = async (event) => {
-  //     event.preventDefault();
-  //     let formData = {
-  //       Name: Name,
-  //       Mobile_No: Mobile_No,
-  //       City: City,
-  //       Gender: Gender,
-  //     };
-  //     console.log("sss", formData);
-  //     try {
-  //       let res = await fetch("http://localhost:3002/prod", {
-  //         method: "POST",
-  //         body: JSON.stringify(formData),
-  //         headers: { "Content-type": "application/json; charset=UTF-8" },
-  //       });
-  //       console.log("dssssss", res);
-  //       let resJson = await res.json();
-  //       console.log("hello");
-  //       console.log(resJson);
-  //       if (res.status === 200) {
-  //         setSubmitting(true);
-  //         setName("");
-  //         setEmail("");
-  //         setMobile_No("");
-  //         setCity("");
-  //         setTimeout(() => {
-  //           setSubmitting(false);
-  //           history.push("/admin/mobileSignIn");
-  //         }, 500);
-  //       }
-  //     } catch (error) {
-  //       console.log(error);
-  //     }
-  //   };
-
-  //   // -------------Function for Name Validation----------//
-  //   const onNameChange = (e) => {
-  //     const re = /^[A-Za-z ]+$/;
-  //     if (e.target.value === "" || re.test(e.target.value))
-  //       setName(e.target.value);
-  //     if (e.target.value.length > 20 || e.target.value.length < 3) {
-  //       setIsNameError(true);
-  //     } else {
-  //       setIsNameError(false);
-  //     }
-  //   };
-
-  //   //-----------Function to iterate the data------------------//
   const uniqueArrayByProperty = (data, iterator) => {
     return [...new Set(data.map(iterator))];
   };

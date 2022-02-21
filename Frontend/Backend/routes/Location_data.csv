@@ -1,0 +1,272 @@
+﻿MainCategory,Subcategory,Part Number
+UTP,Allahabad Service,ALBD-OA
+UTP,Allahabad Service,ALBD-SERV
+UTP,Allahabad Service,ALDSER-DEM
+UTP,Allahabad Service,ALDSER-DOA
+PNB,Amritsar Store,AMRT-DEMO
+PNB,Amritsar Store,AMRT-DOA
+PNB,Amritsar Store,AMRT-PJB
+CHD,35C Store,CHD-CAP
+DEL,CP Service Center,CP-DEMO
+DEL,CP Service Center,CP-OA
+DEL,CP Service Center,CP-SERV
+DEL,Amazon,DEL-AMZ
+DEL,Head Office,DEL-CAP
+DEL,CP Service Center,DEL-CP
+DEL,Delhi Service,DEL-CSMT
+DEL,Head Office,DEL-DEMO2
+DEL,Head Office,DEL-DUMP
+DEL,Delhi Service Refurbished Business,DEL-FRBD
+DEL,Head Office,DEL-ISD
+DEL,Jasola,DEL-JSL
+DEL,Malviya Nagar,DELMAL-DEM
+DEL,Malviya Nagar,DELMAL-DOA
+DEL,Select City Walk Store,DELMAL-SKT
+DEL,Malviya Nagar,DEL-MALVIY
+DEL,Delhi Service,DEL-OA
+DEL,Head Office,DEL-OK
+DEL,Punjabi Bagh Store,DEL-PJB
+DEL,Punjabi Bagh Store,DEL-PJBDEM
+DEL,Punjabi Bagh Store,DEL-PJBDOA
+DEL,Paytm,DEL-PTM
+DEL,PVR Anupam Store,DEL-PVR
+DEL,PVR Anupam Store,DEL-PVRDEM
+DEL,PVR Anupam Store,DEL-PVRDOA
+DEL,Select City Walk Store,DELPVR-SKT
+DEL,Select City Walk Store,DEL-SAKET
+DEL,Delhi Service,DELS-DEMO
+DEL,Delhi Service,DEL-SERV
+DEL,Select City Walk Store,DEL-SKTDEM
+DEL,Select City Walk Store,DELSKT-DOA
+DEL,Malviya Nagar,DELSKT-MAL
+DEL,Punjabi Bagh Store,DELSKT-PJB
+DEL,PVR Anupam Store,DELSKT-PVR
+DEL,Delhi Service,DELSKT-SER
+DEL,SMB Business,DEL-SMB
+CHD,Dyson Elante Mall,DYS-ELANTE
+CHD,Dyson Elante Mall,DYS-EMDEM
+DEL,Vegas Mall,DYS-VEGAS
+DEL,Vegas Mall,DYS-VGSDEM
+UTP,EBS Allahabad Store,EBS-ALHCVL
+PNB,EBS Amritsar Store,EBS-AMTMOA
+CHD,eCommerce,EBS-CHD
+CHD,EBS Elante Store,EBS-CHDELT
+CHD,EBS 35C Chandigarh,EBS-CHDS35
+DEL,eCommerce,EBS-DEL
+DEL,EBS Connaught Place,EBS-DELCP
+DEL,EBS Punjabi Bagh Store,EBS-DELPJB
+DEL,EBS PVR Anupam Store,EBS-DELPVR
+DEL,EBS Select City Walk Store,EBS-DELSCW
+DEL,EBS SMB Business,EBS-DELSMB
+CHD,Dyson Elante Mall,EBS-ELANTE
+HRY,eCommerce,EBS-GGN
+HRY,EBS IRIS broadway sector 85 ,EBS-GGNIRI
+HRY,EBS MGF Store,EBS-GGNMGF
+HRY,EBS Sohna Road,EBS-GGNSOH
+HRY,EBS Gurgaon South Point,EBS-GGNSPT
+HRY,EBS Worldmark Store,EBS-GGNWMG
+PNB,EBS Jalandhar Store,EBS-JALMDT
+JNK,EBS Jammu Store,EBS-JAMWAV
+RAJ,EBS Jodhpur Store,EBS-JDHSRD
+RAJ,eCommerce,EBS-JPR
+RAJ,EBS MI Road,EBS-JPRMIR
+RAJ,EBS Jaipur Service Center,EBS-JPRSER
+RAJ,EBS Triton Store,EBS-JPRTRT
+RAJ,EBS WTP Store,EBS-JPRWTP
+WBL,eCommerce,EBS-KOL
+WBL,EBS Elgin Kolkata,EBS-KOLELG
+WBL,EBS Park Street,EBS-KOLPRK
+WBL,EBS SCM Kolkata,EBS-KOLSCM
+WBL,EBS SPM Kolkata,EBS-KOLSPM
+RAJ,EBS Kota Store,EBS-KOTGUM
+HRY,eCommerce,EBS-MGF
+PNB,The Mall Road Amritsar,EBS-MROAD
+UTP,EBS Meerut Store,EBS-MRTSHP
+UTP,EBS Noida Service,EBS-NDAGGL
+HRY,EBS Panchkula Store,EBS-PKLS11
+HRY,EBS Panipat Store,EBS-PNPT
+DEL,eCommerce,EBS-SKT
+RAJ,eCommerce,EBS-TRT
+RAJ,EBS Udaipur Store,EBS-UDRCEL
+DEL,Vegas Mall,EBS-VEGAS
+RAJ,eCommerce,EBS-WTP
+WBL,Elgin Kolkata,ELG-DEMO
+WBL,Elgin Kolkata,ELG-DOA
+WBL,Elgin Kolkata,ELG-KOL
+WBL,Elgin Kolkata Service,ELG-SERV
+WBL,Elgin Kolkata Service,ELGS-OA
+CHD,Elante Store,EM-CHD
+CHD,Elante Store,EM-DEMO
+CHD,Elante Store,EM-DOA
+HRY,Amazon,GGN-AMAZON
+HRY,MGF Store,GGN-CAP
+HRY,Gurgaon Service,GGN-CSMT
+HRY,MGF Store,GGN-DEMO
+HRY,Head Office,GGN-DEMO2
+HRY,MGF Store,GGN-DOA
+HRY,MGF Store,GGN-DUMP
+HRY,MGF Store,GGN-FK
+HRY,Branch Head Office,GGN-HO
+HRY,IRIS Broadway Sector 85,GGN-IRIS
+HRY,Triton Store,GGN-JPR-OK
+HRY,MGF Store,GGN-OK
+HRY,Select City Walk Store,GGN-SAKET
+HRY,Gurgaon Service,GGN-SERVIC
+HRY,Sohna Road,GGN-SOHNA
+HRY,Gurgaon Service,GGN-SPOINT
+HRY,Worldmark Store,GGN-WM
+HRY,WTP Store,GGN-WTP
+HRY,Gurgaon Service,GN-SPOINT1
+TEL,Hyderabad,HYD-OK
+HRY,On The Way,IN-TRAN
+HRY,On The Way,IN-TRANSIT
+HRY,IRIS Broadway Sector 85,IRIS-DEMO
+HRY,IRIS Broadway Service Center,IRIS-OA
+HRY,IRIS Broadway Service Center,IRIS-SERV
+JNK,Jammu Store,JAMMU-DEMO
+JNK,Jammu Store,JAMMU-DOA
+JNK,Jammu Store,JAMMU-OK
+RAJ,Jodhpur Store,JDH-CAP
+RAJ,Jodhpur Store,JDH-DEMO
+RAJ,Jodhpur Store,JDH-DOA
+RAJ,Kota Store,JDH-KOTA
+RAJ,Jodhpur Service,JDH-OA
+RAJ,Jodhpur Store,JDH-OK
+RAJ,Jodhpur Service,JDHSER-DEM
+RAJ,Jodhpur Service,JDHSER-DOA
+RAJ,Jodhpur Service,JDH-SERV
+RAJ,WTP Store,JPR-CAP
+RAJ,Jaipur Service,JPR-CSMT
+RAJ,Triton Store,JPR-DEMO
+RAJ,WTP Store,JPR-DEMO2
+RAJ,Triton Store,JPR-DOA
+RAJ,MI Road,JPRMIR-DEM
+RAJ,MI Road,JPRMIR-DOA
+RAJ,MI Road,JPR-MIROAD
+RAJ,Jaipur Service,JPR-OA
+RAJ,Triton Store,JPR-OK
+RAJ,MGF Store,JPR-OK-GGN
+RAJ,Kota Store,JPROK-KOTA
+RAJ,MI Road,JPROK-MIR
+RAJ,Select City Walk Store,JPROK-SKT
+RAJ,WTP Store,JPROK-WTP
+RAJ,Jaipur Service,JPRSER-DEM
+RAJ,Jaipur Service,JPR-SERVIC
+RAJ,Jaipur Service,JPR-SERWTP
+RAJ,WTP Store,JPR-WTP
+RAJ,WTP Store,JPR-WTPDEM
+RAJ,WTP Store,JPRWTP-DOA
+RAJ,MI Road,JPRWTP-MIR
+WBL,SCM Kolkata,KLK-CAP
+RAJ,Kota Store,KOTA-CAP
+RAJ,Kota Store,KOTA-DEMO
+RAJ,Kota Store,KOTA-DOA
+RAJ,Kota Store,KOTA-OK
+RAJ,Kotri Road Tresor Service,KOTA-SERV
+PNB,Jalandhar Store,MDLT-DEMO
+PNB,Jalandhar Store,MDLT-DOA
+PNB,Jalandhar Store,MDLT-JLD
+HRY,Sohna Road,MGF-SOHNA
+RAJ,Jodhpur Store,MIR-JDHOK
+RAJ,Triton Store,MIR-JPROK
+RAJ,WTP Store,MIR-JPRWTP
+RAJ,Kota Store,MIR-KOTA
+RAJ,Udaipur Store,MIR-UDROK
+PNB,The Mall Road Amritsar,MROAD-DEMO
+PNB,Amritsar Service Center,MROAD-OA
+PNB,The Mall Road Amritsar,MROAD-PJB
+PNB,Amritsar Service Center,MROAD-SERV
+UTP,Noida Service,NDA-DEMO
+UTP,Noida Service,NDA-OA
+UTP,Noida Service,ND-SALES
+WBL,Park Street,PARK-DEMO
+WBL,Park Street,PARK-DOA
+WBL,Park Street,PARK-KOL
+PNB,Amritsar Store,PJB-CAP
+DEL,Punjabi Bagh Service,PJB-OA
+DEL,Punjabi Bagh Service,PJB-SERV
+DEL,Punjabi Bagh Service Demo,PJBSR-DEMO
+HRY,Panchkula Store,PNCK-DEMO
+HRY,Panchkula Store,PNCK-DOA
+HRY,Panchkula Store,PNCK-HR
+HRY,Panchkula Service Center,PNCK-OA
+HRY,Panchkula Service Center,PNCK-SERV
+HRY,Panipat Store,PNPT-DEMO
+HRY,Panipat Store,PNPT-HR
+HRY,Panipat Store,PNPT-OA
+HRY,Panipat Service,PNPT-SERV
+DEL,MGF Store,SAKET-GGN
+DEL,WTP Store,SAKET-WTP
+WBL,SCM Kolkata,SCM-DEMO
+WBL,SCM Kolkata,SCM-DOA
+WBL,SCM Kolkata,SCM-KOL
+CHD,35C Chandigarh,SCO-CHD
+CHD,35C Chandigarh,SCO-DEMO
+CHD,35C Chandigarh,SCO-DOA
+DEL,Delhi Service,SC-SALES
+DEL,Select City Walk Store,SKT-CAP
+DEL,Triton Store,SKT-JPROK
+DEL,Gurgaon Service,SKT-SPOINT
+UTP,SMB ALLAHABAD,SMB-ALBD
+PNB,SMB AMRITSAR,SMB-AMRT
+DEL,SMB CONNAUGHT PLACE,SMB-CP
+DEL,SMB Delhi Service,SMB-DELS
+WBL,SMB ELGIN KOLKATA,SMB-ELG
+CHD,SMB ELANTE MALL,SMB-EM
+RAJ,SMB JODHPUR,SMB-JDH
+JNK,SMB JAMMU,SMB-JMU
+RAJ,SMB KOTA,SMB-KOTA
+PNB,SMB JALANDHAR,SMB-MDLT
+HRY,SMB MGF,SMB-MGF
+RAJ,SMB MIROAD,SMB-MIR
+UTP,SMB MEERUT,SMB-MRT
+UTP,SMB Noida,SMB-NDA
+WBL,SMB PARK STREET,SMB-PARKOL
+DEL,SMB PUNJABI BAGH,SMB-PJB
+HRY,SMB PANCHKULA,SMB-PNCK
+DEL,SMB PVR,SMB-PVR
+WBL,SMB SCM,SMB-SCM
+CHD,SMB SCO ,SMB-SCO
+DEL,SMB Saket store,SMB-SCW
+HRY,SMB SOHNA,SMB-SOHNA
+WBL,SMB SPM,SMB-SPM
+HRY,SMB South point mall,SMB-SPNT
+RAJ,SMB Triton Mall,SMB-TRT
+RAJ,SMB UDAIPUR,SMB-UDR
+HRY,SMB WORLDMARK,SMB-WM
+RAJ,SMB WTP,SMB-WTP
+HRY,Sohna Road,SOHNA-DEMO
+HRY,Sohna Road,SOHNA-DOA
+HRY,MGF Store,SOHNA-MGF
+HRY,Gurgaon Service,SOHNA-SPNT
+WBL,SPM Kolkata,SPM-DEMO
+WBL,SPM Kolkata,SPM-DOA
+WBL,SPM Kolkata,SPM-KOL
+HRY,Gurgaon Service,SPNT-DEMO
+HRY,Gurgaon Service,SPNT-OA
+HRY,Gurgaon Service,SP-SALES
+HRY,test location,TEST
+RAJ,Udaipur Store,UDR-CAP
+RAJ,Udaipur Store,UDR-DEMO
+RAJ,Udaipur Store,UDR-DOA
+RAJ,Kota Store,UDR-KOTA
+RAJ,Udaipur Service,UDR-OA
+RAJ,Udaipur Store,UDR-OK
+RAJ,Udaipur Service,UDRSER-DEM
+RAJ,Udaipur Service,UDR-SERV
+UTP,Allahabad Store,UP-ALBD
+UTP,Allahabad Store,UPALBD-DEM
+UTP,Allahabad Store,UP-ALBDDOA
+UTP,Allahabad Store,UP-CAP
+UTP,Meerut Store,UP-MRT
+UTP,Meerut Store,UPMRT-DEM
+UTP,Meerut Store,UP-MRTDOA
+UTP,Noida Service,UP-NDA
+HRY,Worldmark Store,WM-DEMO
+HRY,Worldmark Service,WM-SERV
+HRY,Worldmark Store,WMS-OA
+RAJ,WTP Store,WTP-CAP
+RAJ,WTP Store,WTP-DOA
+RAJ,WTP Store,WTP-GGN
+RAJ,Kota Store,WTP-KOTA
+RAJ,Select City Walk Store,WTP-SAKET
