@@ -14,7 +14,7 @@ import {
 import TextField from "@material-ui/core/TextField";
 import axios from "axios";
 import BarLoader from "react-spinners/BarLoader";
-import BASE_URL from "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/src/assets/config/config.ts";
+import BASE_URL from "assets/config/config.js";
 
 function UpdateUserForm() {
   const [loading, setLoading] = useState(true);

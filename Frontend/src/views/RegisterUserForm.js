@@ -15,7 +15,7 @@ import { useHistory } from "react-router-dom";
 import TextField from "@material-ui/core/TextField";
 import axios from "axios";
 // import Footer from "components/Footer/Footer";
-import BASE_URL from "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/src/assets/config/config.ts";
+import BASE_URL from "assets/config/config.js";
 
 function RegisterUserForm() {
   const [submitting, setSubmitting] = useState(false);
