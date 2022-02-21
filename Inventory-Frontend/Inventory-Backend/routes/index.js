@@ -22,7 +22,7 @@ router.get("/", function (req, res, next) {
   res.render("index", { title: "Express" });
 });
 
-router.get("/   ", async function (req, res, next) {
+router.get("/data", async function (req, res, next) {
   try {
     let productCount = [];
     let prudctAval = false;
@@ -55,6 +55,24 @@ router.get("/   ", async function (req, res, next) {
 router.post("/prod", async function (req, res, next) {
   try {
     let reqBody = req.body;
+    // console.log("data", req.body);
+
+    const data = await postData({
+      path: "Tresor Systems Pvt Ltd",
+      oDataPath: "/iPadCustomerCapturingModification",
+      oDataQuery: `$format=json`,
+      reqBody,
+    });
+    console.log("data", data);
+    res.json(data);
+  } catch (error) {
+    res.json(error.message);
+  }
+});
+
+router.put("/updateuser", async function (req, res, next) {
+  try {
+    let reqBody = req.body;
     console.log("data", req.body);
 
     const data = await postData({
@@ -76,11 +94,15 @@ router.get("/customerData", async function (req, res, next) {
     // console.log("data", req.body);
     const data = await customerData({
       path: "Tresor Systems Pvt Ltd",
-      oDataQuery: `$format=json&$filter=Mobile_No eq '123454345'`,
+      oDataQuery: `$format=json&$filter=Mobile_No eq '9728958201'`,
     });
     res.json({
       data,
     });
+    if (data) {
+      //otp send
+      return;
+    }
   } catch (error) {
     res.json(error.message);
   }
@@ -89,7 +111,7 @@ router.get("/customerData", async function (req, res, next) {
 router.post("/getCategory", (req, res) => {
   CSVToJSON()
     .fromFile(
-      "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Backend/routes/Updated_Data.csv"
+      "/Users/apple/Desktop/Krishan Kumar/My-Project/Inventory-Frontend/Inventory-Backend/routes/Location_data.csv"
     )
     .then((data) => {
       res.json({

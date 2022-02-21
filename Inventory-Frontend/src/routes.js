@@ -15,27 +15,21 @@ import LandingPage from "views/LandingPage";
 import UpdateUserForm from "views/UpdateUserForm";
 
 var routes = [
-  {
-    path: "/dashboard",
-    name: "Dashboard",
-    icon: "nc-icon nc-bank",
-    component: Dashboard,
-    layout: "/admin",
-  },
-  {
-    path: "/register",
-    name: "register",
-    icon: "nc-icon nc-bank",
-    component: Register,
-    layout: "/admin",
-  },
-  {
-    path: "/updateuser",
-    name: "User Update",
-    icon: "nc-icon nc-bank",
-    component: CustomerSignInForm,
-    layout: "/admin",
-  },
+  // {
+  //   path: "/dashboard",
+  //   name: "Dashboard",
+  //   icon: "nc-icon nc-bank",
+  //   component: Dashboard,
+  //   layout: "/admin",
+  // },
+
+  // {
+  //   path: "/updateuser",
+  //   name: "User Update",
+  //   icon: "nc-icon nc-bank",
+  //   component: CustomerSignInForm,
+  //   layout: "/admin",
+  // },
   // {
   //   path: "/productMenu",
   //   name: "Main Product Availability Menu",
@@ -98,17 +92,31 @@ var routes = [
   // },
   {
     path: "/landingpage",
-    name: "landingpage",
+    name: "Options",
     icon: "nc-icon nc-spaceship",
     component: LandingPage,
     layout: "/admin",
   },
   {
-    path: "/update",
-    name: "update",
-    icon: "nc-icon nc-spaceship",
-    component: UpdateUserForm,
+    path: "/register",
+    name: "Register User",
+    icon: "nc-icon nc-tile-56",
+    component: Register,
     layout: "/admin",
   },
+  {
+    path: "/updateuser",
+    name: "Update User",
+    icon: "nc-icon nc-bank",
+    component: CustomerSignInForm,
+    layout: "/admin",
+  },
+  // {
+  //   path: "/update",
+  //   name: "update",
+  //   icon: "nc-icon nc-spaceship",
+  //   component: UpdateUserForm,
+  //   layout: "/admin",
+  // },
 ];
 export default routes;

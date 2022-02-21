@@ -18,21 +18,20 @@ import Footer from "components/Footer/Footer";
 
 function RegisterUserForm() {
   const [submitting, setSubmitting] = useState(false);
+  const [odataError, setOdataError] = useState("");
   const [Name, setName] = useState("");
   const [Mobile_No, setMobile_No] = useState("");
   const [E_Mail, setEmail] = useState("");
-  const [City, setCity] = useState("");
+  // const [City, setCity] = useState("");
   const [Gender, setGender] = useState("");
-  // const [state, setState] = useState("");
-  // const [Status, setStatus] = useState("");
   const [isError, setIsError] = useState(false);
   const [isEmailError, setIsEmailError] = useState(false);
   const [isNameError, setIsNameError] = useState(false);
-  const [isCityError, setIsCityError] = useState(false);
   const [mainCategory, setMainCategory] = useState("");
   const [allCategories, setAllCategories] = useState([]);
   const [subCategory, setSubCategory] = useState("");
-  const [categoryDescription, setCategoryDescription] = useState("");
+  // const [Enroll_Date, setEnroll_Date] = useState("");
+
   let history = useHistory();
 
   useEffect(() => {
@@ -48,16 +47,19 @@ function RegisterUserForm() {
     return categoryData;
   };
 
-  let unique = [...new Set(allCategories.map((item) => item.MainCategory))];
-  console.log("unique is ", unique);
+  // let unique = [...new Set(allCategories.map((item) => item.MainCategory))];
+  // console.log("unique is ", unique);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
     let formData = {
       Name: Name,
       Mobile_No: Mobile_No,
-      City: City,
+      City: subCategory,
+      State_Code: mainCategory,
       Gender: Gender,
+      E_Mail: E_Mail,
+      Enroll_Date: new Date().toLocaleString(),
     };
     console.log("sss", formData);
     try {
@@ -68,17 +70,28 @@ function RegisterUserForm() {
       });
       console.log("dssssss", res);
       let resJson = await res.json();
-      console.log("hello");
       console.log(resJson);
-      if (res.status === 200) {
+      if (resJson["odata.error"]) {
+        setOdataError(resJson["odata.error"].message.value);
         setSubmitting(true);
         setName("");
         setEmail("");
         setMobile_No("");
-        setCity("");
+        setMainCategory("");
+        setSubCategory("");
+        setMainCategory("");
+        setGender("");
+      } else if (res.status === 200) {
+        // setSubmitting(true);
+        setName("");
+        setEmail("");
+        setMobile_No("");
+        setMainCategory("");
+        setSubCategory("");
+        setMainCategory("");
+        setGender("");
         setTimeout(() => {
-          setSubmitting(false);
-          history.push("/admin/mobileSignIn");
+          history.push("/admin/register");
         }, 500);
       }
     } catch (error) {
@@ -144,6 +157,11 @@ function RegisterUserForm() {
                   Customer Detail Entry
                 </CardTitle>
               </CardHeader>
+              {submitting && (
+                <div style={{ color: "red", textAlign: "center" }}>
+                  {odataError}
+                </div>
+              )}
               <Form onSubmit={handleSubmit}>
                 <CardBody
                   style={{
@@ -160,6 +178,7 @@ function RegisterUserForm() {
                           type="tel"
                           error={isError}
                           value={Mobile_No}
+                          required
                           style={{
                             fontSize: "15px",
                             marginTop: "-20px",
@@ -263,7 +282,6 @@ function RegisterUserForm() {
                           onChange={(e) => {
                             setMainCategory(e.target.value);
                             setSubCategory("");
-                            setCategoryDescription("");
                           }}
                           required
                         >
@@ -289,7 +307,6 @@ function RegisterUserForm() {
                           className="form-control"
                           onChange={(e) => {
                             setSubCategory(e.target.value);
-                            setCategoryDescription("");
                           }}
                           required
                         >

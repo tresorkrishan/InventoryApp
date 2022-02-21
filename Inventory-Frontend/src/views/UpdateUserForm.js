@@ -11,33 +11,33 @@ import {
   FormGroup,
   Button,
 } from "reactstrap";
-import { useHistory } from "react-router-dom";
+// import { useHistory } from "react-router-dom";
 import TextField from "@material-ui/core/TextField";
 import axios from "axios";
-import Footer from "components/Footer/Footer";
+// import Footer from "components/Footer/Footer";
 import BarLoader from "react-spinners/BarLoader";
 
 function UpdateUserForm() {
-  const [submitting, setSubmitting] = useState(false);
+  //   const [submitting, setSubmitting] = useState(false);
   const [loading, setLoading] = useState(true);
   const [Name, setName] = useState("");
   const [Mobile_No, setMobile_No] = useState("");
   const [E_Mail, setEmail] = useState("");
-  const [City, setCity] = useState("");
+  //   const [City, setCity] = useState("");
   const [Gender, setGender] = useState("");
   // const [state, setState] = useState("");
   // const [Status, setStatus] = useState("");
   const [isError, setIsError] = useState(false);
   const [isEmailError, setIsEmailError] = useState(false);
   const [isNameError, setIsNameError] = useState(false);
-  const [isCityError, setIsCityError] = useState(false);
+  //   const [isCityError, setIsCityError] = useState(false);
   const [mainCategory, setMainCategory] = useState("");
   const [User, setUser] = useState([]);
   const [allCategories, SetAllCategories] = useState([]);
 
   const [subCategory, setSubCategory] = useState("");
-  const [categoryDescription, setCategoryDescription] = useState("");
-  let history = useHistory();
+  //   const [categoryDescription, setCategoryDescription] = useState("");
+  //   let history = useHistory();
 
   useEffect(() => {
     getDatabyPhoneNumber();
@@ -62,6 +62,8 @@ function UpdateUserForm() {
     setMobile_No(categoryData.Mobile_No);
     setGender(categoryData.Gender);
     setEmail(categoryData.E_Mail);
+    setSubCategory(categoryData.City);
+    setMainCategory(categoryData.State_Code);
 
     console.log("dcata is us ", categoryData);
     return categoryData;
@@ -349,10 +351,10 @@ function UpdateUserForm() {
                           <label>Sub-Categories</label>
                           <select
                             name="mainCategory"
-                            value={mainCategory}
+                            value={subCategory}
                             className="form-control"
                             onChange={(e) => {
-                              setMainCategory(e.target.value);
+                              setSubCategory(e.target.value);
                             }}
                             required
                           >

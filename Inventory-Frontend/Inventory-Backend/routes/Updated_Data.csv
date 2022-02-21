@@ -1,276 +1,276 @@
 ﻿MainCategory,Subcategory,Part Number,UPC/EAN,Description,SAP Part Description,MRP
-Mac,MacBook Air,MGN63HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",MBA 13.3 SPG/8C CPU/7C GPU/8GB/256GB-HIN,92900
-Mac,MacBook Air,MGN73HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Space Grey",MBA 13.3 SPG/8C CPU/8C GPU/8GB/512GB-HIN,117900
-Mac,MacBook Air,MGN93HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Silver",MBA 13.3 SLV/8C CPU/7C GPU/8GB/256GB-HIN,92900
-Mac,MacBook Air,MGNA3HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Silver",MBA 13.3 SLV/8C CPU/8C GPU/8GB/512GB-HIN,117900
-Mac,MacBook Air,MGND3HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Gold",MBA 13.3 GLD/8C CPU/7C GPU/8GB/256GB-HIN,92900
-Mac,MacBook Air,MGNE3HN/A,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Gold",MBA 13.3 GLD/8C CPU/8C GPU/8GB/512GB-HIN,117900
-Mac,MacBook Pro,MVVJ2HN/A,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.6GHz 6-core 9th-generation Intel Core i7 processor, 512GB - Space Grey",MBP 16.0 SG/2.6G 6C/16GB/5300M/512GB-HIN,199900
-Mac,MacBook Pro,MVVK2HN/A,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.3GHz 8-core 9th-generation Intel Core i9 processor, 1TB - Space Grey",MBP 16.0 SG/2.3GHZ 8C/16GB/5500M/1TB-HIN,239900
-Mac,MacBook Pro,MVVL2HN/A,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.6GHz 6-core 9th-generation Intel Core i7 processor, 512GB - Silver",MBP 16.0 SL/2.6G 6C/16GB/5300M/512GB-HIN,199900
-Mac,MacBook Pro,MVVM2HN/A,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.3GHz 8-core 9th-generation Intel Core i9 processor, 1TB - Silver",MBP 16.0 SL/2.3GHZ 8C/16GB/5500M/1TB-HIN,239900
-Mac,MacBook Pro,MWP42HN/A,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 512GB - Space Grey",MBP 13.3 SG/2.0GHZ QC/16GB/512GB-HIN,174900
-Mac,MacBook Pro,MWP52HN/A,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 1TB - Space Grey",MBP 13.3 SG/2.0GHZ QC/16GB/1TB-HIN,194900
-Mac,MacBook Pro,MWP72HN/A,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 512GB - Silver",MBP 13.3 SL/2.0GHZ QC/16GB/512GB-HIN,174900
-Mac,MacBook Pro,MWP82HN/A,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 1TB - Silver",MBP 13.3 SL/2.0GHZ QC/16GB/1TB-HIN,194900
-Mac,MacBook Pro,MYD82HN/A,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD - Space Grey",MBP 13.3 SPG/8C CPU/8C GPU/8GB/256GB-HIN,122900
-Mac,MacBook Pro,MYD92HN/A,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD - Space Grey",MBP 13.3 SPG/8C CPU/8C GPU/8GB/512GB-HIN,142900
-Mac,MacBook Pro,MYDA2HN/A,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD - Silver",MBP 13.3 SLV/8C CPU/8C GPU/8GB/256GB-HIN,122900
-Mac,MacBook Pro,MYDC2HN/A,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD - Silver",MBP 13.3 SLV/8C CPU/8C GPU/8GB/512GB-HIN,142900
-Mac,Mac mini,MGNR3HN/A,1.94E+11,"Mac mini: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD",MAC MINI/8C CPU/8C GPU/8GB/256GB-HIN,64900
-Mac,Mac mini,MGNT3HN/A,1.94E+11,"Mac mini: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD",MAC MINI/8C CPU/8C GPU/8GB/512GB-HIN,84900
-Mac,Mac mini,MXNG2HN/A,1.90E+11,"Mac mini: 3.0GHz 6-core 8th-generation Intel Core i5 processor, 512GB",MAC MINI SG/3.0GHZ 6C/8GB/512GB-HIN,104900
-Mac,iMac,MGPC3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Silver","IMAC 24"" SLV/8C CPU/8C GPU/8GB/256GB-HIN",139900
-Mac,iMac,MGPD3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Silver","IMAC 24"" SLV/8C CPU/8C GPU/8GB/512GB-HIN",159900
-Mac,iMac,MGPH3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Green","IMAC 24"" GRN/8C CPU/8C GPU/8GB/256GB-HIN",139900
-Mac,iMac,MGPJ3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Green","IMAC 24"" GREEN/8C CPU/8C GPU/8GB/512-HIN",159900
-Mac,iMac,MGPK3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Blue","IMAC 24"" BLU/8C CPU/8C GPU/8GB/256GB-HIN",139900
-Mac,iMac,MGPL3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Blue","IMAC 24"" BLU/8C CPU/8C GPU/8GB/512GB-HIN",159900
-Mac,iMac,MGPM3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Pink","IMAC 24"" PNK/8C CPU/8C GPU/8GB/256GB-HIN",139900
-Mac,iMac,MGPN3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Pink","IMAC 24"" PNK/8C CPU/8C GPU/8GB/512GB-HIN",159900
-Mac,iMac,MGTF3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Silver","IMAC 24"" SLV/8C CPU/7C GPU/8GB/256GB-HIN",119900
-Mac,iMac,MHK03HN/A,1.94E+11,"21.5-inch iMac: 2.3GHz dual-core 7th-generation Intel Core i5 processor, 256GB","IMAC 21.5""/2.3DC/8GB/256GB-HIN",99900
-Mac,iMac,MJV83HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Green","IMAC 24"" GRN/8C CPU/7C GPU/8GB/256GB-HIN",119900
-Mac,iMac,MJV93HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Blue","IMAC 24"" BLU/8C CPU/7C GPU/8GB/256GB-HIN",119900
-Mac,iMac,MJVA3HN/A,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Pink","IMAC 24"" PNK/8C CPU/7C GPU/8GB/256GB-HIN",119900
-Mac,iMac,MXWT2HN/A,1.90E+11,"27-inch iMac with Retina 5K display: 3.1GHz 6-core 10th-generation Intel Core i5 processor, 256GB","IMAC 27""/3.1GHZ 6C/8GB/256GB/RP5300-HIN",169900
-Mac,iMac,MXWU2HN/A,1.90E+11,"27-inch iMac with Retina 5K display: 3.3GHz 6-core 10th-generation Intel Core i5 processor, 512GB","IMAC 27""/3.3GHZ 6C/8GB/512GB/RP5300-HIN",189900
-Mac,iMac,MXWV2HN/A,1.90E+11,"27-inch iMac with Retina 5K display: 3.8GHz 8-core 10th-generation Intel Core i7 processor, 512GB","IMAC 27""/3.8 8C/8GB/512GB/RP5500XT-HIN",219900
-Mac,Apple Mac Accessories,MC704ZM/A,8.86E+11,Apple USB Ethernet Adapter,APPLE USB ETHERNET ADAPTER - ZML,2900
-Mac,Apple Mac Accessories,MD463ZM/A,8.86E+11,Thunderbolt to Gigabit Ethernet Adapter,THUNDERBOLT GIGABIT ETHERNET ADAPTER-ZML,2900
-Mac,Apple Mac Accessories,MD464ZM/A,8.86E+11,Apple Thunderbolt to FireWire Adapter,APPLE THUNDERBOLT - FIREWIRE ADAPTER-ZML,2900
-Mac,Apple Mac Accessories,MD504ZM/A,8.86E+11,Apple MagSafe to MagSafe 2 Converter,MAGSAFE TO MAGSAFE 2 CONVERTER-ZML,1000
-Mac,Apple Mac Accessories,MD564ZM/A,8.86E+11,Apple USB SuperDrive,APPLE USB SUPERDRIVE-ZML,7500
-Mac,Apple Mac Accessories,MD819ZM/A,8.86E+11,Lightning to USB Cable (2 m),LIGHTNING TO USB CABLE (2 M)-ZML,2900
-Mac,Apple Mac Accessories,MD820ZM/A,8.86E+11,Lightning to Micro USB Adapter,LIGHTNING TO MICRO USB ADAPTER-ZML,1800
-Mac,Apple Mac Accessories,MD821ZM/A,8.86E+11,Lightning to USB Camera Adapter,LIGHTNING TO USB CAMERA ADAPTER-ZML,2900
-Mac,Apple Mac Accessories,MD825ZM/A,8.86E+11,Lightning to VGA Adapter,LIGHTNING TO VGA ADAPTER-ZML,4900
-Mac,Apple Mac Accessories,MD826ZM/A,8.86E+11,Lightning to Digital AV Adapter,LIGHTNING DIGITAL AV ADAPTER-ZML,4900
-Mac,Apple Mac Accessories,MD861ZM/A,8.86E+11,Apple Thunderbolt cable (2.0 m),APPLE THUNDERBOLT CABLE (2.0 M)-ZML,3900
-Mac,Apple Mac Accessories,MD862ZM/A,8.86E+11,Apple Thunderbolt cable (0.5 m),APPLE THUNDERBOLT CABLE (0.5 M)-ZML,2900
-Mac,Apple Mac Accessories,ME291ZM/A,8.86E+11,Lightning to USB Cable (0.5 m),LIGHTNING TO USB CABLE (0.5 M)-ZML,1800
-Mac,Apple Mac Accessories,MGYH3HN/A,1.94E+11,AirPods Max - Space Gray,AIRPODS MAX SPACE GRAY-HIN,59900
-Mac,Apple Mac Accessories,MGYJ3HN/A,1.94E+11,AirPods Max - Silver,AIRPODS MAX SILVER-HIN,59900
-Mac,Apple Mac Accessories,MGYL3HN/A,1.94E+11,AirPods Max - Sky Blue,AIRPODS MAX SKY BLUE-HIN,59900
-Mac,Apple Mac Accessories,MGYM3HN/A,1.94E+11,AirPods Max - Pink,AIRPODS MAX PINK-HIN,59900
-Mac,Apple Mac Accessories,MGYN3HN/A,1.94E+11,AirPods Max - Green,AIRPODS MAX GREEN-HIN,59900
-Mac,Apple Mac Accessories,MJ073ZM/A,1.94E+11,Radeon Pro W6800X MPX Module,RADEON PRO W6800X MPX MODULE-ZML,280000
-Mac,Apple Mac Accessories,MJ093ZM/A,1.94E+11,Radeon Pro W6800X Duo MPX Module,RADEON PRO W6800X DUO MPX MODULE-ZML,500000
-Mac,Apple Mac Accessories,MJ103ZM/A,1.94E+11,Radeon Pro W6900X MPX Module,RADEON PRO W6900X MPX MODULE-ZML,600000
-Mac,Apple Mac Accessories,MJ1L2ZM/A,8.88E+11,USB-C VGA Multiport Adapter,USB-C VGA MULTIPORT ADAPTER-ZML,6800
-Mac,Apple Mac Accessories,MJ1M2ZM/A,8.88E+11,USB-C to USB Adapter,USB-C TO USB ADAPTER-ZML,1900
-Mac,Apple Mac Accessories,MJVU2ZM/A,8.88E+11,Apple HDMI to DVI Adapter,APPLE HDMI TO DVI ADAPTER-ZML,2900
-Mac,Apple Mac Accessories,MK122HN/A,8.88E+11,Power Adapter Extension Cable,POWER ADAPTER EXTENSION CABLE-HIN,1900
-Mac,Apple Mac Accessories,MK293HN/A,1.94E+11,Magic Keyboard with Touch ID for Mac computers with Apple silicon - US English,MAGIC KEYBOARD TOUCH ID-HIN,14500
-Mac,Apple Mac Accessories,MK2A3HN/A,1.94E+11,Magic Keyboard - US English,MAGIC KEYBOARD-HIN,9500
-Mac,Apple Mac Accessories,MK2C3HN/A,1.94E+11,Magic Keyboard with Touch ID and Numeric Keypad for Mac computers with Apple silicon - US English,MAGIC KEYBOARD TOUCH ID NUM KEY-HIN,17500
-Mac,Apple Mac Accessories,MK2D3ZM/A,1.94E+11,Magic Trackpad,MAGIC TRACKPAD-ZML,12500
-Mac,Apple Mac Accessories,MK2E3ZM/A,1.94E+11,Magic Mouse,MAGIC MOUSE-ZML,7500
-Mac,Apple Mac Accessories,ML8E3ZM/A,1.94E+11,Thunderbolt 3 Pro Cable (2 m),APPLE THUNDERBOLT 3 PRO CABLE (2 M)-ZML,12900
-Mac,Apple Mac Accessories,MLL82ZM/A,8.88E+11,USB-C Charge Cable (2m),USB-C CHARGE CABLE (2M)-ZML,1900
-Mac,Apple Mac Accessories,MM093ZM/A,1.94E+11,USB-C Charge Cable (1m),USB-C CHARGE CABLE (1M)-ZML,1900
-Mac,Apple Mac Accessories,MMEL2ZM/A,8.88E+11,Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter,THUNDERBOLT 3 TO THUNDERBOLT 2 ADPTR-ZML,4900
-Mac,Apple Mac Accessories,MMTN2ZM/A,1.90E+11,EarPods with Lightning Connector,EARPODS WITH LIGHTNING CONNECTOR-ZML,1900
-Mac,Apple Mac Accessories,MQ052HN/A,1.90E+11,Magic Keyboard with Numeric Keypad - US English - Silver,MAGIC KEYBOARD WITH NUMERIC KEYPAD-HIN,12500
-Mac,Apple Mac Accessories,MQ4H2ZM/A,1.90E+11,Thunderbolt 3 (USB-C) Cable (0.8m),THUNDERBOLT 3 (USB-C) CABLE (0.8M)-ZML,3900
-Mac,Apple Mac Accessories,MQGH2ZM/A,1.90E+11,USB-C to Lightning Cable (2 m),USB-C TO LIGHTNING CABLE (2 M)-ZML,3500
-Mac,Apple Mac Accessories,MR3C2ZM/A,1.90E+11,VESA Mount Adapter Kit for iMac Pro - Space Gray,VESA KIT FOR IMAC PRO-ZML,7600
-Mac,Apple Mac Accessories,MR8U2HN/A,1.90E+11,Wireless Charging Case for AirPods,WIRELESS CHARGING CASE FOR AIRPODS-HIN,7500
-Mac,Apple Mac Accessories,MRME2ZM/A,1.90E+11,Magic Mouse 2 - Space Grey,MAGIC MOUSE 2 SPACE GRAY-ZML,9500
-Mac,Apple Mac Accessories,MRMF2ZM/A,1.90E+11,Magic Trackpad 2 - Space Grey,MAGIC TRACKPAD 2 SPACE GRAY-ZML,14500
-Mac,Apple Mac Accessories,MRMH2HN/A,1.90E+11,Magic Keyboard with Numeric Keypad - US English - Space Grey,MAGIC KEYBOARD WITH NUM KEYPAD SG-HIN,14500
-Mac,Apple Mac Accessories,MRQL2ZM/A,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Midnight Blue,MBA AND MBP 13 LEATHER SLEEVE BLUE-ZML,17900
-Mac,Apple Mac Accessories,MRQM2ZM/A,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Saddle Brown,MBA AND MBP 13 LEATHER SLEEVE BROWN-ZML,17900
-Mac,Apple Mac Accessories,MRW22HN/A,1.90E+11,61W USB-C Power Adapter,61W USB-C POWER ADAPTER-HIN,6900
-Mac,Apple Mac Accessories,MRXJ2HN/A,1.90E+11,AirPods with Wireless Charging Case,AIRPODS WITH WIRELESS CHARGING CASE-HIN,18900
-Mac,Apple Mac Accessories,MTEH2ZM/A,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Black,MBA AND MBP 13 LEATHER SLEEVE BLACK-ZML,17900
-Mac,Apple Mac Accessories,MU7E2ZM/A,1.90E+11,USB-C to 3.5 mm Headphone Jack Adapter,USB-C TO 3.5 MM HEADPHONE ADAPTER-ZML,900
-Mac,Apple Mac Accessories,MUF82ZM/A,1.90E+11,USB-C Digital AV Multiport Adapter,USB-C DIGITAL AV MULTIPORT ADAPTER-ZML,6900
-Mac,Apple Mac Accessories,MUFG2ZM/A,1.90E+11,USB-C to SD Card Reader,USB-C TO SD CARD READER-ZML,4000
-Mac,Apple Mac Accessories,MUQN2G/A,1.90E+11,Apple Memory Module 16GB DDR4 2666MHz SO-DIMMS (2x8GB),MEM 16GB (2X8GB) SO-DIMM - GEN,40000
-Mac,Apple Mac Accessories,MUQP2G/A,1.90E+11,Apple Memory Module 32GB DDR4 2666MHz SO-DIMMS (2x16GB),MEM 32GB (2X16GB) SO-DIMM - GEN,80000
-Mac,Apple Mac Accessories,MUQQ2G/A,1.90E+11,Apple Memory Module 64GB DDR4 2666MHz SO-DIMMS (2x32GB),MEM 64GB (2X32GB) SO-DIMM - GEN,120000
-Mac,Apple Mac Accessories,MV7N2HN/A,1.90E+11,AirPods with Charging Case,AIRPODS WITH CHARGING CASE-HIN,14900
-Mac,Apple Mac Accessories,MW662ZM/A,1.90E+11,Radeon Pro W5700X MPX Module,RADEON PRO W5700X MPX MODULE-ZML,100000
-Mac,Apple Mac Accessories,MW672ZM/A,1.90E+11,Radeon Pro Vega II MPX Module,RADEON PRO VEGA II MPX MODULE-ZML,220000
-Mac,Apple Mac Accessories,MW682ZM/A,1.90E+11,Apple Afterburner Card,AFTERBURNER CARD-ZML,200000
-Mac,Apple Mac Accessories,MW732ZM/A,1.90E+11,Radeon Pro Vega II Duo MPX Module,RADEON PRO VEGA II DUO MPX MODULE-ZML,440000
-Mac,Apple Mac Accessories,MWP22HN/A,1.90E+11,AirPods Pro,AIRPODS PRO WITH WIRELESS CASE-HIN,24900
-Mac,Apple Mac Accessories,MWPE2HN/A,1.90E+11,Pro Display XDR - Standard glass,PRO DISPLAY XDR - STANDARD GLASS-HIN,449900
-Mac,Apple Mac Accessories,MWPF2HN/A,1.90E+11,Pro Display XDR - Nano-texture glass,PRO DISPLAY XDR - NANO-TEXTURE GLASS-HIN,529900
-Mac,Apple Mac Accessories,MWUF2Z/A,1.90E+11,VESA Mount Adapter,VESA MOUNT ADAPTER-INT,19500
-Mac,Apple Mac Accessories,MWUG2Z/A,1.90E+11,Pro Stand,PRO STAND-INT,95000
-Mac,Apple Mac Accessories,MWV92ZM/A,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Saddle Brown,MACBOOK PRO 16 LEATHER SLEEVE BROWN-ZML,19500
-Mac,Apple Mac Accessories,MWVA2ZM/A,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Black,MACBOOK PRO 16 LEATHER SLEEVE BLACK-ZML,19500
-Mac,Apple Mac Accessories,MWVC2ZM/A,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Midnight Blue,MACBOOK PRO 16 LEATHER SLEEVE BLUE-ZML,19500
-Mac,Apple Mac Accessories,MX0J2HN/A,1.90E+11,96W USB-C Power Adapter,96W USB-C POWER ADAPTER-HIN,7500
-Mac,Apple Mac Accessories,MX0K2ZM/A,1.90E+11,USB-C to Lightning Cable (1 m),USB-C TO LIGHTNING CABLE (1 M)-ZML,1900
-Mac,Apple Mac Accessories,MX1G2G/A,1.90E+11,16GB (2x8GB) DDR4 ECC Memory Kit,MEM 16GB (2X8GB) DDR4 ECC DIMM KIT-GEN,40000
-Mac,Apple Mac Accessories,MX1H2G/A,1.90E+11,32GB (2x16GB) DDR4 ECC Memory Kit,MEM 32GB (2X16GB) DDR4 ECC DIMM KIT-GEN,80000
-Mac,Apple Mac Accessories,MX1J2G/A,1.90E+11,64GB (2x32GB) DDR4 ECC Memory Kit,MEM 64GB (2X32GB) DDR4 ECC DIMM KIT-GEN,120000
-Mac,Apple Mac Accessories,MX1K2G/A,1.90E+11,128GB (2x64GB) DDR4 ECC Memory Kit,MEM 128GB (2X64GB) DDR4 ECC DIMM KIT-GEN,280000
-Mac,Apple Mac Accessories,MX572ZM/A,1.90E+11,Apple Mac Pro Wheels Kit,MAC PRO WHEELS KIT-ZML,69900
-Mac,Apple Mac Accessories,MX8G2G/A,1.94E+11,256GB (2x128GB) DDR4 ECC Memory Kit,MEM 256GB (2X128G) DDR4 ECC DIMM KIT-GEN,600000
-Mac,Apple Mac Accessories,MXK22ZM/A,1.90E+11,Lightning to 3.5 mm Audio Cable (1.2m) - White,LIGHTNING TO 3.5MM AUDIO CABLE WHITE-ZML,3500
-Mac,Apple Mac Accessories,MXLY2ZM/A,1.90E+11,Lightning to USB Cable (1 m),LIGHTNING TO USB CABLE (1 M)-ZML,1800
-Mac,Apple Mac Accessories,MXM52ZM/A,1.90E+11,Radeon Pro W5500X MPX Module,RADEON PRO W5500X MPX MODULE-ZML,60000
-Mac,Apple Mac Accessories,MXNM2ZM/A,1.90E+11,Apple Mac Pro Feet Kit,MAC PRO FEET KIT-ZML,29900
-Mac,Apple Mac Accessories,MXNN2ZM/A,1.90E+11,1TB SSD Kit for Mac Pro,1TB SSD KIT FOR MAC PRO-ZML,60000
-Mac,Apple Mac Accessories,MXNP2ZM/A,1.90E+11,2TB SSD Kit for Mac Pro,2TB SSD KIT FOR MAC PRO-ZML,100000
-Mac,Apple Mac Accessories,MXNQ2ZM/A,1.90E+11,4TB SSD Kit for Mac Pro,4TB SSD KIT FOR MAC PRO-ZML,160000
-Mac,Apple Mac Accessories,MXNR2ZM/A,1.90E+11,8TB SSD Kit for Mac Pro,8TB SSD KIT FOR MAC PRO-ZML,280000
-Mac,Apple Mac Accessories,MY1W2HN/A,1.90E+11,30W USB-C Power Adapter,30W USB-C POWER ADAPTER-HIN,4900
-iPhone,iPhone 12 Pro Max,MGD73HN/A,1.94E+11,iPhone 12 Pro Max 128GB Graphite,IPHONE 12 PRO MAX GRPHT 128GB-HIN,129900
-iPhone,iPhone 12 Pro Max,MGD83HN/A,1.94E+11,iPhone 12 Pro Max 128GB Silver,IPHONE 12 PRO MAX SILVR 128GB-HIN,129900
-iPhone,iPhone 12 Pro Max,MGD93HN/A,1.94E+11,iPhone 12 Pro Max 128GB Gold,IPHONE 12 PRO MAX GOLD 128GB-HIN,129900
-iPhone,iPhone 12 Pro Max,MGDA3HN/A,1.94E+11,iPhone 12 Pro Max 128GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 128GB-HIN,129900
-iPhone,iPhone 12 Pro Max,MGDC3HN/A,1.94E+11,iPhone 12 Pro Max 256GB Graphite,IPHONE 12 PRO MAX GRPHT 256GB-HIN,139900
-iPhone,iPhone 12 Pro Max,MGDD3HN/A,1.94E+11,iPhone 12 Pro Max 256GB Silver,IPHONE 12 PRO MAX SILVR 256GB-HIN,139900
-iPhone,iPhone 12 Pro Max,MGDE3HN/A,1.94E+11,iPhone 12 Pro Max 256GB Gold,IPHONE 12 PRO MAX GOLD 256GB-HIN,139900
-iPhone,iPhone 12 Pro Max,MGDF3HN/A,1.94E+11,iPhone 12 Pro Max 256GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 256GB-HIN,139900
-iPhone,iPhone 12 Pro Max,MGDG3HN/A,1.94E+11,iPhone 12 Pro Max 512GB Graphite,IPHONE 12 PRO MAX GRPHT 512GB-HIN,159900
-iPhone,iPhone 12 Pro Max,MGDH3HN/A,1.94E+11,iPhone 12 Pro Max 512GB Silver,IPHONE 12 PRO MAX SILVR 512GB-HIN,159900
-iPhone,iPhone 12 Pro Max,MGDK3HN/A,1.94E+11,iPhone 12 Pro Max 512GB Gold,IPHONE 12 PRO MAX GOLD 512GB-HIN,159900
-iPhone,iPhone 12 Pro Max,MGDL3HN/A,1.94E+11,iPhone 12 Pro Max 512GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 512GB-HIN,159900
-iPhone,iPhone 12 Pro,MGMK3HN/A,1.94E+11,iPhone 12 Pro 128GB Graphite,IPHONE 12 PRO GRAPHITE 128GB-HIN,119900
-iPhone,iPhone 12 Pro,MGML3HN/A,1.94E+11,iPhone 12 Pro 128GB Silver,IPHONE 12 PRO SILVER 128GB-HIN,119900
-iPhone,iPhone 12 Pro,MGMM3HN/A,1.94E+11,iPhone 12 Pro 128GB Gold,IPHONE 12 PRO GOLD 128GB-HIN,119900
-iPhone,iPhone 12 Pro,MGMN3HN/A,1.94E+11,iPhone 12 Pro 128GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 128GB-HIN,119900
-iPhone,iPhone 12 Pro,MGMP3HN/A,1.94E+11,iPhone 12 Pro 256GB Graphite,IPHONE 12 PRO GRAPHITE 256GB-HIN,129900
-iPhone,iPhone 12 Pro,MGMQ3HN/A,1.94E+11,iPhone 12 Pro 256GB Silver,IPHONE 12 PRO SILVER 256GB-HIN,129900
-iPhone,iPhone 12 Pro,MGMR3HN/A,1.94E+11,iPhone 12 Pro 256GB Gold,IPHONE 12 PRO GOLD 256GB-HIN,129900
-iPhone,iPhone 12 Pro,MGMT3HN/A,1.94E+11,iPhone 12 Pro 256GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 256GB-HIN,129900
-iPhone,iPhone 12 Pro,MGMU3HN/A,1.94E+11,iPhone 12 Pro 512GB Graphite,IPHONE 12 PRO GRAPHITE 512GB-HIN,149900
-iPhone,iPhone 12 Pro,MGMV3HN/A,1.94E+11,iPhone 12 Pro 512GB Silver,IPHONE 12 PRO SILVER 512GB-HIN,149900
-iPhone,iPhone 12 Pro,MGMW3HN/A,1.94E+11,iPhone 12 Pro 512GB Gold,IPHONE 12 PRO GOLD 512GB-HIN,149900
-iPhone,iPhone 12 Pro,MGMX3HN/A,1.94E+11,iPhone 12 Pro 512GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 512GB-HIN,149900
-iPhone,iPhone 12,MGJ53HN/A,1.94E+11,iPhone 12 64GB Black,IPHONE 12 BLACK 64GB-HIN,79900
-iPhone,iPhone 12,MGJ63HN/A,1.94E+11,iPhone 12 64GB White,IPHONE 12 WHITE 64GB-HIN,79900
-iPhone,iPhone 12,MGJ73HN/A,1.94E+11,iPhone 12 64GB (PRODUCT)RED,IPHONE 12 RED 64GB-HIN,79900
-iPhone,iPhone 12,MGJ83HN/A,1.94E+11,iPhone 12 64GB Blue,IPHONE 12 BLUE 64GB-HIN,79900
-iPhone,iPhone 12,MGJ93HN/A,1.94E+11,iPhone 12 64GB Green,IPHONE 12 GREEN 64GB-HIN,79900
-iPhone,iPhone 12,MGJA3HN/A,1.94E+11,iPhone 12 128GB Black,IPHONE 12 BLACK 128GB-HIN,84900
-iPhone,iPhone 12,MGJC3HN/A,1.94E+11,iPhone 12 128GB White,IPHONE 12 WHITE 128GB-HIN,84900
-iPhone,iPhone 12,MGJD3HN/A,1.94E+11,iPhone 12 128GB (PRODUCT)RED,IPHONE 12 RED 128GB-HIN,84900
-iPhone,iPhone 12,MGJE3HN/A,1.94E+11,iPhone 12 128GB Blue,IPHONE 12 BLUE 128GB-HIN,84900
-iPhone,iPhone 12,MGJF3HN/A,1.94E+11,iPhone 12 128GB Green,IPHONE 12 GREEN 128GB-HIN,84900
-iPhone,iPhone 12,MGJG3HN/A,1.94E+11,iPhone 12 256GB Black,IPHONE 12 BLACK 256GB-HIN,94900
-iPhone,iPhone 12,MGJH3HN/A,1.94E+11,iPhone 12 256GB White,IPHONE 12 WHITE 256GB-HIN,94900
-iPhone,iPhone 12,MGJJ3HN/A,1.94E+11,iPhone 12 256GB (PRODUCT)RED,IPHONE 12 RED 256GB-HIN,94900
-iPhone,iPhone 12,MGJK3HN/A,1.94E+11,iPhone 12 256GB Blue,IPHONE 12 BLUE 256GB-HIN,94900
-iPhone,iPhone 12,MGJL3HN/A,1.94E+11,iPhone 12 256GB Green,IPHONE 12 GREEN 256GB-HIN,94900
-iPhone,iPhone 12,MJNM3HN/A,1.94E+11,iPhone 12 64GB Purple,IPHONE 12 PURPLE 64GB-HIN,79900
-iPhone,iPhone 12,MJNP3HN/A,1.94E+11,iPhone 12 128GB Purple,IPHONE 12 PURPLE 128GB-HIN,84900
-iPhone,iPhone 12,MJNQ3HN/A,1.94E+11,iPhone 12 256GB Purple,IPHONE 12 PURPLE 256GB-HIN,94900
-iPhone,iPhone 12 mini,MGDX3HN/A,1.94E+11,iPhone 12 mini 64GB Black,IPHONE 12 MINI BLACK 64GB-HIN,69900
-iPhone,iPhone 12 mini,MGDY3HN/A,1.94E+11,iPhone 12 mini 64GB White,IPHONE 12 MINI WHITE 64GB-HIN,69900
-iPhone,iPhone 12 mini,MGE03HN/A,1.94E+11,iPhone 12 mini 64GB (PRODUCT)RED,IPHONE 12 MINI RED 64GB-HIN,69900
-iPhone,iPhone 12 mini,MGE13HN/A,1.94E+11,iPhone 12 mini 64GB Blue,IPHONE 12 MINI BLUE 64GB-HIN,69900
-iPhone,iPhone 12 mini,MGE23HN/A,1.94E+11,iPhone 12 mini 64GB Green,IPHONE 12 MINI GREEN 64GB-HIN,69900
-iPhone,iPhone 12 mini,MGE33HN/A,1.94E+11,iPhone 12 mini 128GB Black,IPHONE 12 MINI BLACK 128GB-HIN,74900
-iPhone,iPhone 12 mini,MGE43HN/A,1.94E+11,iPhone 12 mini 128GB White,IPHONE 12 MINI WHITE 128GB-HIN,74900
-iPhone,iPhone 12 mini,MGE53HN/A,1.94E+11,iPhone 12 mini 128GB (PRODUCT)RED,IPHONE 12 MINI RED 128GB-HIN,74900
-iPhone,iPhone 12 mini,MGE63HN/A,1.94E+11,iPhone 12 mini 128GB Blue,IPHONE 12 MINI BLUE 128GB-HIN,74900
-iPhone,iPhone 12 mini,MGE73HN/A,1.94E+11,iPhone 12 mini 128GB Green,IPHONE 12 MINI GREEN 128GB-HIN,74900
-iPhone,iPhone 12 mini,MGE93HN/A,1.94E+11,iPhone 12 mini 256GB Black,IPHONE 12 MINI BLACK 256GB-HIN,84900
-iPhone,iPhone 12 mini,MGEA3HN/A,1.94E+11,iPhone 12 mini 256GB White,IPHONE 12 MINI WHITE 256GB-HIN,84900
-iPhone,iPhone 12 mini,MGEC3HN/A,1.94E+11,iPhone 12 mini 256GB (PRODUCT)RED,IPHONE 12 MINI RED 256GB-HIN,84900
-iPhone,iPhone 12 mini,MGED3HN/A,1.94E+11,iPhone 12 mini 256GB Blue,IPHONE 12 MINI BLUE 256GB-HIN,84900
-iPhone,iPhone 12 mini,MGEE3HN/A,1.94E+11,iPhone 12 mini 256GB Green,IPHONE 12 MINI GREEN 256GB-HIN,84900
-iPhone,iPhone 12 mini,MJQF3HN/A,1.94E+11,iPhone 12 mini 64GB Purple,IPHONE 12 MINI PURPLE 64GB-HIN,69900
-iPhone,iPhone 12 mini,MJQG3HN/A,1.94E+11,iPhone 12 mini 128GB Purple,IPHONE 12 MINI PURPLE 128GB-HIN,74900
-iPhone,iPhone 12 mini,MJQH3HN/A,1.94E+11,iPhone 12 mini 256GB Purple,IPHONE 12 MINI PURPLE 256GB-HIN,84900
-iPhone,iPhone 11 Pro,MWC22HN/A,1.90E+11,iPhone 11 Pro 64GB Space Grey,IPHONE 11 PRO SG 64GB-HIN,106600
-iPhone,iPhone 11 Pro,MWC32HN/A,1.90E+11,iPhone 11 Pro 64GB Silver,IPHONE 11 PRO SLVR 64GB-HIN,106600
-iPhone,iPhone 11 Pro,MWC52HN/A,1.90E+11,iPhone 11 Pro 64GB Gold,IPHONE 11 PRO GLD 64GB-HIN,106600
-iPhone,iPhone 11 Pro,MWC62HN/A,1.90E+11,iPhone 11 Pro 64GB Midnight Green,IPHONE 11 PRO MD GRN 64GB-HIN,106600
-iPhone,iPhone 11 Pro,MWC72HN/A,1.90E+11,iPhone 11 Pro 256GB Space Grey,IPHONE 11 PRO SG 256GB-HIN,116600
-iPhone,iPhone 11 Pro,MWC82HN/A,1.90E+11,iPhone 11 Pro 256GB Silver,IPHONE 11 PRO SLVR 256GB-HIN,116600
-iPhone,iPhone 11 Pro,MWC92HN/A,1.90E+11,iPhone 11 Pro 256GB Gold,IPHONE 11 PRO GLD 256GB-HIN,116600
-iPhone,iPhone 11 Pro,MWCC2HN/A,1.90E+11,iPhone 11 Pro 256GB Midnight Green,IPHONE 11 PRO MD GRN 256GB-HIN,116600
-iPhone,iPhone 11 Pro,MWCD2HN/A,1.90E+11,iPhone 11 Pro 512GB Space Grey,IPHONE 11 PRO SG 512GB-HIN,136600
-iPhone,iPhone 11 Pro,MWCE2HN/A,1.90E+11,iPhone 11 Pro 512GB Silver,IPHONE 11 PRO SLVR 512GB-HIN,136600
-iPhone,iPhone 11 Pro,MWCF2HN/A,1.90E+11,iPhone 11 Pro 512GB Gold,IPHONE 11 PRO GLD 512GB-HIN,136600
-iPhone,iPhone 11 Pro,MWCG2HN/A,1.90E+11,iPhone 11 Pro 512GB Midnight Green,IPHONE 11 PRO MD GRN 512GB-HIN,136600
-iPhone,iPhone 11,MHDA3HN/A,1.94E+11,iPhone 11 64GB Black,IPHONE 11 BLACK 64GB-HIN,54900
-iPhone,iPhone 11,MHDC3HN/A,1.94E+11,iPhone 11 64GB White,IPHONE 11 WHITE 64GB-HIN,54900
-iPhone,iPhone 11,MHDD3HN/A,1.94E+11,iPhone 11 64GB (PRODUCT)RED,IPHONE 11 RED 64GB-HIN,54900
-iPhone,iPhone 11,MHDE3HN/A,1.94E+11,iPhone 11 64GB Yellow,IPHONE 11 YELLOW 64GB-HIN,54900
-iPhone,iPhone 11,MHDF3HN/A,1.94E+11,iPhone 11 64GB Purple,IPHONE 11 PURPLE 64GB-HIN,54900
-iPhone,iPhone 11,MHDG3HN/A,1.94E+11,iPhone 11 64GB Green,IPHONE 11 GREEN 64GB-HIN,54900
-iPhone,iPhone 11,MHDH3HN/A,1.94E+11,iPhone 11 128GB Black,IPHONE 11 BLACK 128GB-HIN,59900
-iPhone,iPhone 11,MHDJ3HN/A,1.94E+11,iPhone 11 128GB White,IPHONE 11 WHITE 128GB-HIN,59900
-iPhone,iPhone 11,MHDK3HN/A,1.94E+11,iPhone 11 128GB (PRODUCT)RED,IPHONE 11 RED 128GB-HIN,59900
-iPhone,iPhone 11,MHDL3HN/A,1.94E+11,iPhone 11 128GB Yellow,IPHONE 11 YELLOW 128GB-HIN,59900
-iPhone,iPhone 11,MHDM3HN/A,1.94E+11,iPhone 11 128GB Purple,IPHONE 11 PURPLE 128GB-HIN,59900
-iPhone,iPhone 11,MHDN3HN/A,1.94E+11,iPhone 11 128GB Green,IPHONE 11 GREEN 128GB-HIN,59900
-iPhone,iPhone 11,MHDP3HN/A,1.94E+11,iPhone 11 256GB Black,IPHONE 11 BLACK 256GB-HIN,69900
-iPhone,iPhone 11,MHDQ3HN/A,1.94E+11,iPhone 11 256GB White,IPHONE 11 WHITE 256GB-HIN,69900
-iPhone,iPhone 11,MHDR3HN/A,1.94E+11,iPhone 11 256GB (PRODUCT)RED,IPHONE 11 RED 256GB-HIN,69900
-iPhone,iPhone 11,MHDT3HN/A,1.94E+11,iPhone 11 256GB Yellow,IPHONE 11 YELLOW 256GB-HIN,69900
-iPhone,iPhone 11,MHDU3HN/A,1.94E+11,iPhone 11 256GB Purple,IPHONE 11 PURPLE 256GB-HIN,69900
-iPhone,iPhone 11,MHDV3HN/A,1.94E+11,iPhone 11 256GB Green,IPHONE 11 GREEN 256GB-HIN,69900
-iPhone,iPhone 11,MWLT2HN/A,1.90E+11,iPhone 11 64GB Black,IPHONE 11 BLACK 64GB-HIN,54900
-iPhone,iPhone 11,MWLU2HN/A,1.90E+11,iPhone 11 64GB White,IPHONE 11 WHITE 64GB-HIN,54900
-iPhone,iPhone 11,MWLV2HN/A,1.90E+11,iPhone 11 64GB (PRODUCT)RED,IPHONE 11 RED 64GB-HIN,54900
-iPhone,iPhone 11,MWLW2HN/A,1.90E+11,iPhone 11 64GB Yellow,IPHONE 11 YELLOW 64GB-HIN,54900
-iPhone,iPhone 11,MWLX2HN/A,1.90E+11,iPhone 11 64GB Purple,IPHONE 11 PURPLE 64GB-HIN,54900
-iPhone,iPhone 11,MWLY2HN/A,1.90E+11,iPhone 11 64GB Green,IPHONE 11 GREEN 64GB-HIN,54900
-iPhone,iPhone 11,MWM02HN/A,1.90E+11,iPhone 11 128GB Black,IPHONE 11 BLACK 128GB-HIN,59900
-iPhone,iPhone 11,MWM22HN/A,1.90E+11,iPhone 11 128GB White,IPHONE 11 WHITE 128GB-HIN,59900
-iPhone,iPhone 11,MWM32HN/A,1.90E+11,iPhone 11 128GB (PRODUCT)RED,IPHONE 11 RED 128GB-HIN,59900
-iPhone,iPhone 11,MWM42HN/A,1.90E+11,iPhone 11 128GB Yellow,IPHONE 11 YELLOW 128GB-HIN,59900
-iPhone,iPhone 11,MWM52HN/A,1.90E+11,iPhone 11 128GB Purple,IPHONE 11 PURPLE 128GB-HIN,59900
-iPhone,iPhone 11,MWM62HN/A,1.90E+11,iPhone 11 128GB Green,IPHONE 11 GREEN 128GB-HIN,59900
-iPhone,iPhone 11,MWM72HN/A,1.90E+11,iPhone 11 256GB Black,IPHONE 11 BLACK 256GB-HIN,69900
-iPhone,iPhone 11,MWM82HN/A,1.90E+11,iPhone 11 256GB White,IPHONE 11 WHITE 256GB-HIN,69900
-iPhone,iPhone 11,MWM92HN/A,1.90E+11,iPhone 11 256GB (PRODUCT)RED,IPHONE 11 RED 256GB-HIN,69900
-iPhone,iPhone 11,MWMA2HN/A,1.90E+11,iPhone 11 256GB Yellow,IPHONE 11 YELLOW 256GB-HIN,69900
-iPhone,iPhone 11,MWMC2HN/A,1.90E+11,iPhone 11 256GB Purple,IPHONE 11 PURPLE 256GB-HIN,69900
-iPhone,iPhone 11,MWMD2HN/A,1.90E+11,iPhone 11 256GB Green,IPHONE 11 GREEN 256GB-HIN,69900
-iPhone,iPhone SE,MHGP3HN/A,1.94E+11,iPhone SE 64GB Black,IPHONE SE BLACK 64GB-HIN,39900
-iPhone,iPhone SE,MHGQ3HN/A,1.94E+11,iPhone SE 64GB White,IPHONE SE WHITE 64GB-HIN,39900
-iPhone,iPhone SE,MHGR3HN/A,1.94E+11,iPhone SE 64GB (PRODUCT)RED,IPHONE SE RED 64GB-HIN,39900
-iPhone,iPhone SE,MHGT3HN/A,1.94E+11,iPhone SE 128GB Black,IPHONE SE BLACK 128GB-HIN,44900
-iPhone,iPhone SE,MHGU3HN/A,1.94E+11,iPhone SE 128GB White,IPHONE SE WHITE 128GB-HIN,44900
-iPhone,iPhone SE,MHGV3HN/A,1.94E+11,iPhone SE 128GB (PRODUCT)RED,IPHONE SE RED 128GB-HIN,44900
-iPhone,iPhone SE,MHGW3HN/A,1.94E+11,iPhone SE 256GB Black,IPHONE SE BLACK 256GB-HIN,54900
-iPhone,iPhone SE,MHGX3HN/A,1.94E+11,iPhone SE 256GB White,IPHONE SE WHITE 256GB-HIN,54900
-iPhone,iPhone SE,MHGY3HN/A,1.94E+11,iPhone SE 256GB (PRODUCT)RED,IPHONE SE RED 256GB-HIN,54900
-iPhone,iPhone XR,MH6M3HN/A,1.94E+11,iPhone XR 64GB Black,IPHONE XR BLACK 64GB-HIN,47900
-iPhone,iPhone XR,MH6N3HN/A,1.94E+11,iPhone XR 64GB White,IPHONE XR WHITE 64GB-HIN,47900
-iPhone,iPhone XR,MH6P3HN/A,1.94E+11,iPhone XR 64GB (PRODUCT)RED,IPHONE XR RED 64GB-HIN,47900
-iPhone,iPhone XR,MH6Q3HN/A,1.94E+11,iPhone XR 64GB Yellow,IPHONE XR YELLOW 64GB-HIN,47900
-iPhone,iPhone XR,MH6T3HN/A,1.94E+11,iPhone XR 64GB Blue,IPHONE XR BLUE 64GB-HIN,47900
-iPhone,iPhone XR,MH7L3HN/A,1.94E+11,iPhone XR 128GB Black,IPHONE XR BLACK 128GB-HIN,52900
-iPhone,iPhone XR,MH7M3HN/A,1.94E+11,iPhone XR 128GB White,IPHONE XR WHITE 128GB-HIN,52900
-iPhone,iPhone XR,MH7N3HN/A,1.94E+11,iPhone XR 128GB (PRODUCT)RED,IPHONE XR RED 128GB-HIN,52900
-iPhone,iPhone XR,MH7P3HN/A,1.94E+11,iPhone XR 128GB Yellow,IPHONE XR YELLOW 128GB-HIN,52900
-iPhone,iPhone XR,MH7R3HN/A,1.94E+11,iPhone XR 128GB Blue,IPHONE XR BLUE 128GB-HIN,52900
-iPhone,iPhone XR,MRY42HN/A,1.90E+11,iPhone XR 64GB Black,IPHONE XR BLACK 64GB-HIN,47900
-iPhone,iPhone XR,MRY52HN/A,1.90E+11,iPhone XR 64GB White,IPHONE XR WHITE 64GB-HIN,47900
-iPhone,iPhone XR,MRY62HN/A,1.90E+11,iPhone XR 64GB (PRODUCT)RED,IPHONE XR RED 64GB-HIN,47900
-iPhone,iPhone XR,MRY72HN/A,1.90E+11,iPhone XR 64GB Yellow,IPHONE XR YELLOW 64GB-HIN,47900
-iPhone,iPhone XR,MRY82HN/A,1.90E+11,iPhone XR 64GB Coral,IPHONE XR CORAL 64GB-HIN,47900
-iPhone,iPhone XR,MRY92HN/A,1.90E+11,iPhone XR 128GB Black,IPHONE XR BLACK 128GB-HIN,52900
-iPhone,iPhone XR,MRYA2HN/A,1.90E+11,iPhone XR 64GB Blue,IPHONE XR BLUE 64GB-HIN,47900
-iPhone,iPhone XR,MRYD2HN/A,1.90E+11,iPhone XR 128GB White,IPHONE XR WHITE 128GB-HIN,52900
-iPhone,iPhone XR,MRYE2HN/A,1.90E+11,iPhone XR 128GB (PRODUCT)RED,IPHONE XR RED 128GB-HIN,52900
-iPhone,iPhone XR,MRYF2HN/A,1.90E+11,iPhone XR 128GB Yellow,IPHONE XR YELLOW 128GB-HIN,52900
-iPhone,iPhone XR,MRYG2HN/A,1.90E+11,iPhone XR 128GB Coral,IPHONE XR CORAL 128GB-HIN,52900
-iPhone,iPhone XR,MRYH2HN/A,1.90E+11,iPhone XR 128GB Blue,IPHONE XR BLUE 128GB-HIN,52900
-iPhone,Apple iPhone Accessories,MA591ZM/C,8.88E+11,Apple 30-pin to USB Cable,30-PIN TO USB CABLE-ZML,1800
-iPhone,Apple iPhone Accessories,MA854G/A,8.86E+11,Apple iPhone TTY Adapter,IPHONE TTY ADAPTER-GEN,1800
-iPhone,Apple iPhone Accessories,MD819ZM/A,8.86E+11,Lightning to USB Cable (2 m),LIGHTNING TO USB CABLE (2 M)-ZML,2900
-iPhone,Apple iPhone Accessories,MD820ZM/A,8.86E+11,Lightning to Micro USB Adapter,LIGHTNING TO MICRO USB ADAPTER-ZML,1800
-iPhone,Apple iPhone Accessories,MD825ZM/A,8.86E+11,Lightning to VGA Adapter,LIGHTNING TO VGA ADAPTER-ZML,4900
-iPhone,Apple iPhone Accessories,MD826ZM/A,8.86E+11,Lightning to Digital AV Adapter,LIGHTNING DIGITAL AV ADAPTER-ZML,4900
-iPhone,Apple iPhone Accessories,MD837ZM/A,8.86E+11,Apple World Travel Adapter Kit,WORLD TRAVEL ADAPTER KIT-ZML,2900
-iPhone,Apple iPhone Accessories,ME291ZM/A,8.86E+11,Lightning to USB Cable (0.5 m),LIGHTNING TO USB CABLE (0.5 M)-ZML,1800
-iPhone,Apple iPhone Accessories,MGN03HN/A,1.94E+11,Apple 12W USB Power Adapter,12W USB POWER ADAPTER-HIN,1900
-iPhone,Apple iPhone Accessories,MGYH3HN/A,1.94E+11,AirPods Max - Space Gray,AIRPODS MAX SPACE GRAY-HIN,59900
-iPhone,Apple iPhone Accessories,MGYJ3HN/A,1.94E+11,AirPods Max - Silver,AIRPODS MAX SILVER-HIN,59900
-iPhone,Apple iPhone Accessories,MGYL3HN/A,1.94E+11,AirPods Max - Sky Blue,AIRPODS MAX SKY BLUE-HIN,59900
+UTP,Allahabad Service,ALBD-OA,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",MBA 13.3 SPG/8C CPU/7C GPU/8GB/256GB-HIN,92900
+UTP,Allahabad Service,ALBD-SERV,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Space Grey",MBA 13.3 SPG/8C CPU/8C GPU/8GB/512GB-HIN,117900
+UTP,Allahabad Service,ALDSER-DEM,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Silver",MBA 13.3 SLV/8C CPU/7C GPU/8GB/256GB-HIN,92900
+UTP,Allahabad Service,ALDSER-DOA,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Silver",MBA 13.3 SLV/8C CPU/8C GPU/8GB/512GB-HIN,117900
+PNB,Amritsar Store,AMRT-DEMO,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Gold",MBA 13.3 GLD/8C CPU/7C GPU/8GB/256GB-HIN,92900
+PNB,Amritsar Store,AMRT-DOA,1.94E+11,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 8-core GPU, 512GB - Gold",MBA 13.3 GLD/8C CPU/8C GPU/8GB/512GB-HIN,117900
+PNB,Amritsar Store,AMRT-PJB,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.6GHz 6-core 9th-generation Intel Core i7 processor, 512GB - Space Grey",MBP 16.0 SG/2.6G 6C/16GB/5300M/512GB-HIN,199900
+CHD,35C Store,CHD-CAP,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.3GHz 8-core 9th-generation Intel Core i9 processor, 1TB - Space Grey",MBP 16.0 SG/2.3GHZ 8C/16GB/5500M/1TB-HIN,239900
+DEL,CP Service Center,CP-DEMO,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.6GHz 6-core 9th-generation Intel Core i7 processor, 512GB - Silver",MBP 16.0 SL/2.6G 6C/16GB/5300M/512GB-HIN,199900
+DEL,CP Service Center,CP-OA,1.90E+11,"16-inch MacBook Pro with Touch Bar: 2.3GHz 8-core 9th-generation Intel Core i9 processor, 1TB - Silver",MBP 16.0 SL/2.3GHZ 8C/16GB/5500M/1TB-HIN,239900
+DEL,CP Service Center,CP-SERV,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 512GB - Space Grey",MBP 13.3 SG/2.0GHZ QC/16GB/512GB-HIN,174900
+DEL,Amazon,DEL-AMZ,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 1TB - Space Grey",MBP 13.3 SG/2.0GHZ QC/16GB/1TB-HIN,194900
+DEL,Head Office,DEL-CAP,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 512GB - Silver",MBP 13.3 SL/2.0GHZ QC/16GB/512GB-HIN,174900
+DEL,CP Service Center,DEL-CP,1.90E+11,"13-inch MacBook Pro with Touch Bar: 2.0GHz quad-core 10th-generation Intel Core i5 processor, 1TB - Silver",MBP 13.3 SL/2.0GHZ QC/16GB/1TB-HIN,194900
+DEL,Delhi Service,DEL-CSMT,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD - Space Grey",MBP 13.3 SPG/8C CPU/8C GPU/8GB/256GB-HIN,122900
+DEL,Head Office,DEL-DEMO2,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD - Space Grey",MBP 13.3 SPG/8C CPU/8C GPU/8GB/512GB-HIN,142900
+DEL,Head Office,DEL-DUMP,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD - Silver",MBP 13.3 SLV/8C CPU/8C GPU/8GB/256GB-HIN,122900
+DEL,Delhi Service Refurbished Business,DEL-FRBD,1.94E+11,"13-inch MacBook Pro: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD - Silver",MBP 13.3 SLV/8C CPU/8C GPU/8GB/512GB-HIN,142900
+DEL,Head Office,DEL-ISD,1.94E+11,"Mac mini: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB SSD",MAC MINI/8C CPU/8C GPU/8GB/256GB-HIN,64900
+DEL,Jasola,DEL-JSL,1.94E+11,"Mac mini: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB SSD",MAC MINI/8C CPU/8C GPU/8GB/512GB-HIN,84900
+DEL,Malviya Nagar,DELMAL-DEM,1.90E+11,"Mac mini: 3.0GHz 6-core 8th-generation Intel Core i5 processor, 512GB",MAC MINI SG/3.0GHZ 6C/8GB/512GB-HIN,104900
+DEL,Malviya Nagar,DELMAL-DOA,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Silver","IMAC 24"" SLV/8C CPU/8C GPU/8GB/256GB-HIN",139900
+DEL,Select City Walk Store,DELMAL-SKT,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Silver","IMAC 24"" SLV/8C CPU/8C GPU/8GB/512GB-HIN",159900
+DEL,Malviya Nagar,DEL-MALVIY,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Green","IMAC 24"" GRN/8C CPU/8C GPU/8GB/256GB-HIN",139900
+DEL,Delhi Service,DEL-OA,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Green","IMAC 24"" GREEN/8C CPU/8C GPU/8GB/512-HIN",159900
+DEL,Head Office,DEL-OK,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Blue","IMAC 24"" BLU/8C CPU/8C GPU/8GB/256GB-HIN",139900
+DEL,Punjabi Bagh Store,DEL-PJB,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Blue","IMAC 24"" BLU/8C CPU/8C GPU/8GB/512GB-HIN",159900
+DEL,Punjabi Bagh Store,DEL-PJBDEM,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 256GB - Pink","IMAC 24"" PNK/8C CPU/8C GPU/8GB/256GB-HIN",139900
+DEL,Punjabi Bagh Store,DEL-PJBDOA,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 8‑core GPU, 512GB - Pink","IMAC 24"" PNK/8C CPU/8C GPU/8GB/512GB-HIN",159900
+DEL,Paytm,DEL-PTM,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Silver","IMAC 24"" SLV/8C CPU/7C GPU/8GB/256GB-HIN",119900
+DEL,PVR Anupam Store,DEL-PVR,1.94E+11,"21.5-inch iMac: 2.3GHz dual-core 7th-generation Intel Core i5 processor, 256GB","IMAC 21.5""/2.3DC/8GB/256GB-HIN",99900
+DEL,PVR Anupam Store,DEL-PVRDEM,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Green","IMAC 24"" GRN/8C CPU/7C GPU/8GB/256GB-HIN",119900
+DEL,PVR Anupam Store,DEL-PVRDOA,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Blue","IMAC 24"" BLU/8C CPU/7C GPU/8GB/256GB-HIN",119900
+DEL,Select City Walk Store,DELPVR-SKT,1.94E+11,"24-inch iMac with Retina 4.5K display: Apple M1 chip with 8‑core CPU and 7‑core GPU, 256GB - Pink","IMAC 24"" PNK/8C CPU/7C GPU/8GB/256GB-HIN",119900
+DEL,Select City Walk Store,DEL-SAKET,1.90E+11,"27-inch iMac with Retina 5K display: 3.1GHz 6-core 10th-generation Intel Core i5 processor, 256GB","IMAC 27""/3.1GHZ 6C/8GB/256GB/RP5300-HIN",169900
+DEL,Delhi Service,DELS-DEMO,1.90E+11,"27-inch iMac with Retina 5K display: 3.3GHz 6-core 10th-generation Intel Core i5 processor, 512GB","IMAC 27""/3.3GHZ 6C/8GB/512GB/RP5300-HIN",189900
+DEL,Delhi Service,DEL-SERV,1.90E+11,"27-inch iMac with Retina 5K display: 3.8GHz 8-core 10th-generation Intel Core i7 processor, 512GB","IMAC 27""/3.8 8C/8GB/512GB/RP5500XT-HIN",219900
+DEL,Select City Walk Store,DEL-SKTDEM,8.86E+11,Apple USB Ethernet Adapter,APPLE USB ETHERNET ADAPTER - ZML,2900
+DEL,Select City Walk Store,DELSKT-DOA,8.86E+11,Thunderbolt to Gigabit Ethernet Adapter,THUNDERBOLT GIGABIT ETHERNET ADAPTER-ZML,2900
+DEL,Malviya Nagar,DELSKT-MAL,8.86E+11,Apple Thunderbolt to FireWire Adapter,APPLE THUNDERBOLT - FIREWIRE ADAPTER-ZML,2900
+DEL,Punjabi Bagh Store,DELSKT-PJB,8.86E+11,Apple MagSafe to MagSafe 2 Converter,MAGSAFE TO MAGSAFE 2 CONVERTER-ZML,1000
+DEL,PVR Anupam Store,DELSKT-PVR,8.86E+11,Apple USB SuperDrive,APPLE USB SUPERDRIVE-ZML,7500
+DEL,Delhi Service,DELSKT-SER,8.86E+11,Lightning to USB Cable (2 m),LIGHTNING TO USB CABLE (2 M)-ZML,2900
+DEL,SMB Business,DEL-SMB,8.86E+11,Lightning to Micro USB Adapter,LIGHTNING TO MICRO USB ADAPTER-ZML,1800
+CHD,Dyson Elante Mall,DYS-ELANTE,8.86E+11,Lightning to USB Camera Adapter,LIGHTNING TO USB CAMERA ADAPTER-ZML,2900
+CHD,Dyson Elante Mall,DYS-EMDEM,8.86E+11,Lightning to VGA Adapter,LIGHTNING TO VGA ADAPTER-ZML,4900
+DEL,Vegas Mall,DYS-VEGAS,8.86E+11,Lightning to Digital AV Adapter,LIGHTNING DIGITAL AV ADAPTER-ZML,4900
+DEL,Vegas Mall,DYS-VGSDEM,8.86E+11,Apple Thunderbolt cable (2.0 m),APPLE THUNDERBOLT CABLE (2.0 M)-ZML,3900
+UTP,EBS Allahabad Store,EBS-ALHCVL,8.86E+11,Apple Thunderbolt cable (0.5 m),APPLE THUNDERBOLT CABLE (0.5 M)-ZML,2900
+PNB,EBS Amritsar Store,EBS-AMTMOA,8.86E+11,Lightning to USB Cable (0.5 m),LIGHTNING TO USB CABLE (0.5 M)-ZML,1800
+CHD,eCommerce,EBS-CHD,1.94E+11,AirPods Max - Space Gray,AIRPODS MAX SPACE GRAY-HIN,59900
+CHD,EBS Elante Store,EBS-CHDELT,1.94E+11,AirPods Max - Silver,AIRPODS MAX SILVER-HIN,59900
+CHD,EBS 35C Chandigarh,EBS-CHDS35,1.94E+11,AirPods Max - Sky Blue,AIRPODS MAX SKY BLUE-HIN,59900
+DEL,eCommerce,EBS-DEL,1.94E+11,AirPods Max - Pink,AIRPODS MAX PINK-HIN,59900
+DEL,EBS Connaught Place,EBS-DELCP,1.94E+11,AirPods Max - Green,AIRPODS MAX GREEN-HIN,59900
+DEL,EBS Punjabi Bagh Store,EBS-DELPJB,1.94E+11,Radeon Pro W6800X MPX Module,RADEON PRO W6800X MPX MODULE-ZML,280000
+DEL,EBS PVR Anupam Store,EBS-DELPVR,1.94E+11,Radeon Pro W6800X Duo MPX Module,RADEON PRO W6800X DUO MPX MODULE-ZML,500000
+DEL,EBS Select City Walk Store,EBS-DELSCW,1.94E+11,Radeon Pro W6900X MPX Module,RADEON PRO W6900X MPX MODULE-ZML,600000
+DEL,EBS SMB Business,EBS-DELSMB,8.88E+11,USB-C VGA Multiport Adapter,USB-C VGA MULTIPORT ADAPTER-ZML,6800
+CHD,Dyson Elante Mall,EBS-ELANTE,8.88E+11,USB-C to USB Adapter,USB-C TO USB ADAPTER-ZML,1900
+HRY,eCommerce,EBS-GGN,8.88E+11,Apple HDMI to DVI Adapter,APPLE HDMI TO DVI ADAPTER-ZML,2900
+HRY,EBS IRIS broadway sector 85 ,EBS-GGNIRI,8.88E+11,Power Adapter Extension Cable,POWER ADAPTER EXTENSION CABLE-HIN,1900
+HRY,EBS MGF Store,EBS-GGNMGF,1.94E+11,Magic Keyboard with Touch ID for Mac computers with Apple silicon - US English,MAGIC KEYBOARD TOUCH ID-HIN,14500
+HRY,EBS Sohna Road,EBS-GGNSOH,1.94E+11,Magic Keyboard - US English,MAGIC KEYBOARD-HIN,9500
+HRY,EBS Gurgaon South Point,EBS-GGNSPT,1.94E+11,Magic Keyboard with Touch ID and Numeric Keypad for Mac computers with Apple silicon - US English,MAGIC KEYBOARD TOUCH ID NUM KEY-HIN,17500
+HRY,EBS Worldmark Store,EBS-GGNWMG,1.94E+11,Magic Trackpad,MAGIC TRACKPAD-ZML,12500
+PNB,EBS Jalandhar Store,EBS-JALMDT,1.94E+11,Magic Mouse,MAGIC MOUSE-ZML,7500
+JNK,EBS Jammu Store,EBS-JAMWAV,1.94E+11,Thunderbolt 3 Pro Cable (2 m),APPLE THUNDERBOLT 3 PRO CABLE (2 M)-ZML,12900
+RAJ,EBS Jodhpur Store,EBS-JDHSRD,8.88E+11,USB-C Charge Cable (2m),USB-C CHARGE CABLE (2M)-ZML,1900
+RAJ,eCommerce,EBS-JPR,1.94E+11,USB-C Charge Cable (1m),USB-C CHARGE CABLE (1M)-ZML,1900
+RAJ,EBS MI Road,EBS-JPRMIR,8.88E+11,Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter,THUNDERBOLT 3 TO THUNDERBOLT 2 ADPTR-ZML,4900
+RAJ,EBS Jaipur Service Center,EBS-JPRSER,1.90E+11,EarPods with Lightning Connector,EARPODS WITH LIGHTNING CONNECTOR-ZML,1900
+RAJ,EBS Triton Store,EBS-JPRTRT,1.90E+11,Magic Keyboard with Numeric Keypad - US English - Silver,MAGIC KEYBOARD WITH NUMERIC KEYPAD-HIN,12500
+RAJ,EBS WTP Store,EBS-JPRWTP,1.90E+11,Thunderbolt 3 (USB-C) Cable (0.8m),THUNDERBOLT 3 (USB-C) CABLE (0.8M)-ZML,3900
+WBL,eCommerce,EBS-KOL,1.90E+11,USB-C to Lightning Cable (2 m),USB-C TO LIGHTNING CABLE (2 M)-ZML,3500
+WBL,EBS Elgin Kolkata,EBS-KOLELG,1.90E+11,VESA Mount Adapter Kit for iMac Pro - Space Gray,VESA KIT FOR IMAC PRO-ZML,7600
+WBL,EBS Park Street,EBS-KOLPRK,1.90E+11,Wireless Charging Case for AirPods,WIRELESS CHARGING CASE FOR AIRPODS-HIN,7500
+WBL,EBS SCM Kolkata,EBS-KOLSCM,1.90E+11,Magic Mouse 2 - Space Grey,MAGIC MOUSE 2 SPACE GRAY-ZML,9500
+WBL,EBS SPM Kolkata,EBS-KOLSPM,1.90E+11,Magic Trackpad 2 - Space Grey,MAGIC TRACKPAD 2 SPACE GRAY-ZML,14500
+RAJ,EBS Kota Store,EBS-KOTGUM,1.90E+11,Magic Keyboard with Numeric Keypad - US English - Space Grey,MAGIC KEYBOARD WITH NUM KEYPAD SG-HIN,14500
+HRY,eCommerce,EBS-MGF,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Midnight Blue,MBA AND MBP 13 LEATHER SLEEVE BLUE-ZML,17900
+PNB,The Mall Road Amritsar,EBS-MROAD,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Saddle Brown,MBA AND MBP 13 LEATHER SLEEVE BROWN-ZML,17900
+UTP,EBS Meerut Store,EBS-MRTSHP,1.90E+11,61W USB-C Power Adapter,61W USB-C POWER ADAPTER-HIN,6900
+UTP,EBS Noida Service,EBS-NDAGGL,1.90E+11,AirPods with Wireless Charging Case,AIRPODS WITH WIRELESS CHARGING CASE-HIN,18900
+HRY,EBS Panchkula Store,EBS-PKLS11,1.90E+11,Leather Sleeve for 13-inch MacBook Pro – Black,MBA AND MBP 13 LEATHER SLEEVE BLACK-ZML,17900
+HRY,EBS Panipat Store,EBS-PNPT,1.90E+11,USB-C to 3.5 mm Headphone Jack Adapter,USB-C TO 3.5 MM HEADPHONE ADAPTER-ZML,900
+DEL,eCommerce,EBS-SKT,1.90E+11,USB-C Digital AV Multiport Adapter,USB-C DIGITAL AV MULTIPORT ADAPTER-ZML,6900
+,,EBS-SPNT-G,1.90E+11,USB-C to SD Card Reader,USB-C TO SD CARD READER-ZML,4000
+RAJ,eCommerce,EBS-TRT,1.90E+11,Apple Memory Module 16GB DDR4 2666MHz SO-DIMMS (2x8GB),MEM 16GB (2X8GB) SO-DIMM - GEN,40000
+RAJ,EBS Udaipur Store,EBS-UDRCEL,1.90E+11,Apple Memory Module 32GB DDR4 2666MHz SO-DIMMS (2x16GB),MEM 32GB (2X16GB) SO-DIMM - GEN,80000
+DEL,Vegas Mall,EBS-VEGAS,1.90E+11,Apple Memory Module 64GB DDR4 2666MHz SO-DIMMS (2x32GB),MEM 64GB (2X32GB) SO-DIMM - GEN,120000
+RAJ,eCommerce,EBS-WTP,1.90E+11,AirPods with Charging Case,AIRPODS WITH CHARGING CASE-HIN,14900
+WBL,Elgin Kolkata,ELG-DEMO,1.90E+11,Radeon Pro W5700X MPX Module,RADEON PRO W5700X MPX MODULE-ZML,100000
+WBL,Elgin Kolkata,ELG-DOA,1.90E+11,Radeon Pro Vega II MPX Module,RADEON PRO VEGA II MPX MODULE-ZML,220000
+WBL,Elgin Kolkata,ELG-KOL,1.90E+11,Apple Afterburner Card,AFTERBURNER CARD-ZML,200000
+WBL,Elgin Kolkata Service,ELG-SERV,1.90E+11,Radeon Pro Vega II Duo MPX Module,RADEON PRO VEGA II DUO MPX MODULE-ZML,440000
+WBL,Elgin Kolkata Service,ELGS-OA,1.90E+11,AirPods Pro,AIRPODS PRO WITH WIRELESS CASE-HIN,24900
+CHD,Elante Store,EM-CHD,1.90E+11,Pro Display XDR - Standard glass,PRO DISPLAY XDR - STANDARD GLASS-HIN,449900
+CHD,Elante Store,EM-DEMO,1.90E+11,Pro Display XDR - Nano-texture glass,PRO DISPLAY XDR - NANO-TEXTURE GLASS-HIN,529900
+CHD,Elante Store,EM-DOA,1.90E+11,VESA Mount Adapter,VESA MOUNT ADAPTER-INT,19500
+HRY,Amazon,GGN-AMAZON,1.90E+11,Pro Stand,PRO STAND-INT,95000
+HRY,MGF Store,GGN-CAP,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Saddle Brown,MACBOOK PRO 16 LEATHER SLEEVE BROWN-ZML,19500
+HRY,Gurgaon Service,GGN-CSMT,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Black,MACBOOK PRO 16 LEATHER SLEEVE BLACK-ZML,19500
+HRY,MGF Store,GGN-DEMO,1.90E+11,Leather Sleeve for 16-inch MacBook Pro – Midnight Blue,MACBOOK PRO 16 LEATHER SLEEVE BLUE-ZML,19500
+HRY,Head Office,GGN-DEMO2,1.90E+11,96W USB-C Power Adapter,96W USB-C POWER ADAPTER-HIN,7500
+HRY,MGF Store,GGN-DOA,1.90E+11,USB-C to Lightning Cable (1 m),USB-C TO LIGHTNING CABLE (1 M)-ZML,1900
+HRY,MGF Store,GGN-DUMP,1.90E+11,16GB (2x8GB) DDR4 ECC Memory Kit,MEM 16GB (2X8GB) DDR4 ECC DIMM KIT-GEN,40000
+HRY,MGF Store,GGN-FK,1.90E+11,32GB (2x16GB) DDR4 ECC Memory Kit,MEM 32GB (2X16GB) DDR4 ECC DIMM KIT-GEN,80000
+HRY,Branch Head Office,GGN-HO,1.90E+11,64GB (2x32GB) DDR4 ECC Memory Kit,MEM 64GB (2X32GB) DDR4 ECC DIMM KIT-GEN,120000
+HRY,IRIS Broadway Sector 85,GGN-IRIS,1.90E+11,128GB (2x64GB) DDR4 ECC Memory Kit,MEM 128GB (2X64GB) DDR4 ECC DIMM KIT-GEN,280000
+HRY,Triton Store,GGN-JPR-OK,1.90E+11,Apple Mac Pro Wheels Kit,MAC PRO WHEELS KIT-ZML,69900
+HRY,MGF Store,GGN-OK,1.94E+11,256GB (2x128GB) DDR4 ECC Memory Kit,MEM 256GB (2X128G) DDR4 ECC DIMM KIT-GEN,600000
+HRY,Select City Walk Store,GGN-SAKET,1.90E+11,Lightning to 3.5 mm Audio Cable (1.2m) - White,LIGHTNING TO 3.5MM AUDIO CABLE WHITE-ZML,3500
+HRY,Gurgaon Service,GGN-SERVIC,1.90E+11,Lightning to USB Cable (1 m),LIGHTNING TO USB CABLE (1 M)-ZML,1800
+HRY,Sohna Road,GGN-SOHNA,1.90E+11,Radeon Pro W5500X MPX Module,RADEON PRO W5500X MPX MODULE-ZML,60000
+HRY,Gurgaon Service,GGN-SPOINT,1.90E+11,Apple Mac Pro Feet Kit,MAC PRO FEET KIT-ZML,29900
+HRY,Worldmark Store,GGN-WM,1.90E+11,1TB SSD Kit for Mac Pro,1TB SSD KIT FOR MAC PRO-ZML,60000
+HRY,WTP Store,GGN-WTP,1.90E+11,2TB SSD Kit for Mac Pro,2TB SSD KIT FOR MAC PRO-ZML,100000
+HRY,Gurgaon Service,GN-SPOINT1,1.90E+11,4TB SSD Kit for Mac Pro,4TB SSD KIT FOR MAC PRO-ZML,160000
+TEL,Hyderabad,HYD-OK,1.90E+11,8TB SSD Kit for Mac Pro,8TB SSD KIT FOR MAC PRO-ZML,280000
+HRY,On The Way,IN-TRAN,1.90E+11,30W USB-C Power Adapter,30W USB-C POWER ADAPTER-HIN,4900
+HRY,On The Way,IN-TRANSIT,1.94E+11,iPhone 12 Pro Max 128GB Graphite,IPHONE 12 PRO MAX GRPHT 128GB-HIN,129900
+HRY,IRIS Broadway Sector 85,IRIS-DEMO,1.94E+11,iPhone 12 Pro Max 128GB Silver,IPHONE 12 PRO MAX SILVR 128GB-HIN,129900
+HRY,IRIS Broadway Service Center,IRIS-OA,1.94E+11,iPhone 12 Pro Max 128GB Gold,IPHONE 12 PRO MAX GOLD 128GB-HIN,129900
+HRY,IRIS Broadway Service Center,IRIS-SERV,1.94E+11,iPhone 12 Pro Max 128GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 128GB-HIN,129900
+JNK,Jammu Store,JAMMU-DEMO,1.94E+11,iPhone 12 Pro Max 256GB Graphite,IPHONE 12 PRO MAX GRPHT 256GB-HIN,139900
+JNK,Jammu Store,JAMMU-DOA,1.94E+11,iPhone 12 Pro Max 256GB Silver,IPHONE 12 PRO MAX SILVR 256GB-HIN,139900
+JNK,Jammu Store,JAMMU-OK,1.94E+11,iPhone 12 Pro Max 256GB Gold,IPHONE 12 PRO MAX GOLD 256GB-HIN,139900
+RAJ,Jodhpur Store,JDH-CAP,1.94E+11,iPhone 12 Pro Max 256GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 256GB-HIN,139900
+RAJ,Jodhpur Store,JDH-DEMO,1.94E+11,iPhone 12 Pro Max 512GB Graphite,IPHONE 12 PRO MAX GRPHT 512GB-HIN,159900
+RAJ,Jodhpur Store,JDH-DOA,1.94E+11,iPhone 12 Pro Max 512GB Silver,IPHONE 12 PRO MAX SILVR 512GB-HIN,159900
+RAJ,Kota Store,JDH-KOTA,1.94E+11,iPhone 12 Pro Max 512GB Gold,IPHONE 12 PRO MAX GOLD 512GB-HIN,159900
+RAJ,Jodhpur Service,JDH-OA,1.94E+11,iPhone 12 Pro Max 512GB Pacific Blue,IPHONE 12 PRO MAX PBLUE 512GB-HIN,159900
+RAJ,Jodhpur Store,JDH-OK,1.94E+11,iPhone 12 Pro 128GB Graphite,IPHONE 12 PRO GRAPHITE 128GB-HIN,119900
+RAJ,Jodhpur Service,JDHSER-DEM,1.94E+11,iPhone 12 Pro 128GB Silver,IPHONE 12 PRO SILVER 128GB-HIN,119900
+RAJ,Jodhpur Service,JDHSER-DOA,1.94E+11,iPhone 12 Pro 128GB Gold,IPHONE 12 PRO GOLD 128GB-HIN,119900
+RAJ,Jodhpur Service,JDH-SERV,1.94E+11,iPhone 12 Pro 128GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 128GB-HIN,119900
+RAJ,WTP Store,JPR-CAP,1.94E+11,iPhone 12 Pro 256GB Graphite,IPHONE 12 PRO GRAPHITE 256GB-HIN,129900
+RAJ,Jaipur Service,JPR-CSMT,1.94E+11,iPhone 12 Pro 256GB Silver,IPHONE 12 PRO SILVER 256GB-HIN,129900
+RAJ,Triton Store,JPR-DEMO,1.94E+11,iPhone 12 Pro 256GB Gold,IPHONE 12 PRO GOLD 256GB-HIN,129900
+RAJ,WTP Store,JPR-DEMO2,1.94E+11,iPhone 12 Pro 256GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 256GB-HIN,129900
+RAJ,Triton Store,JPR-DOA,1.94E+11,iPhone 12 Pro 512GB Graphite,IPHONE 12 PRO GRAPHITE 512GB-HIN,149900
+RAJ,MI Road,JPRMIR-DEM,1.94E+11,iPhone 12 Pro 512GB Silver,IPHONE 12 PRO SILVER 512GB-HIN,149900
+RAJ,MI Road,JPRMIR-DOA,1.94E+11,iPhone 12 Pro 512GB Gold,IPHONE 12 PRO GOLD 512GB-HIN,149900
+RAJ,MI Road,JPR-MIROAD,1.94E+11,iPhone 12 Pro 512GB Pacific Blue,IPHONE 12 PRO PACIFIC BLUE 512GB-HIN,149900
+RAJ,Jaipur Service,JPR-OA,1.94E+11,iPhone 12 64GB Black,IPHONE 12 BLACK 64GB-HIN,79900
+RAJ,Triton Store,JPR-OK,1.94E+11,iPhone 12 64GB White,IPHONE 12 WHITE 64GB-HIN,79900
+RAJ,MGF Store,JPR-OK-GGN,1.94E+11,iPhone 12 64GB (PRODUCT)RED,IPHONE 12 RED 64GB-HIN,79900
+RAJ,Kota Store,JPROK-KOTA,1.94E+11,iPhone 12 64GB Blue,IPHONE 12 BLUE 64GB-HIN,79900
+RAJ,MI Road,JPROK-MIR,1.94E+11,iPhone 12 64GB Green,IPHONE 12 GREEN 64GB-HIN,79900
+RAJ,Select City Walk Store,JPROK-SKT,1.94E+11,iPhone 12 128GB Black,IPHONE 12 BLACK 128GB-HIN,84900
+RAJ,WTP Store,JPROK-WTP,1.94E+11,iPhone 12 128GB White,IPHONE 12 WHITE 128GB-HIN,84900
+RAJ,Jaipur Service,JPRSER-DEM,1.94E+11,iPhone 12 128GB (PRODUCT)RED,IPHONE 12 RED 128GB-HIN,84900
+RAJ,Jaipur Service,JPR-SERVIC,1.94E+11,iPhone 12 128GB Blue,IPHONE 12 BLUE 128GB-HIN,84900
+RAJ,Jaipur Service,JPR-SERWTP,1.94E+11,iPhone 12 128GB Green,IPHONE 12 GREEN 128GB-HIN,84900
+RAJ,WTP Store,JPR-WTP,1.94E+11,iPhone 12 256GB Black,IPHONE 12 BLACK 256GB-HIN,94900
+RAJ,WTP Store,JPR-WTPDEM,1.94E+11,iPhone 12 256GB White,IPHONE 12 WHITE 256GB-HIN,94900
+RAJ,WTP Store,JPRWTP-DOA,1.94E+11,iPhone 12 256GB (PRODUCT)RED,IPHONE 12 RED 256GB-HIN,94900
+RAJ,MI Road,JPRWTP-MIR,1.94E+11,iPhone 12 256GB Blue,IPHONE 12 BLUE 256GB-HIN,94900
+WBL,SCM Kolkata,KLK-CAP,1.94E+11,iPhone 12 256GB Green,IPHONE 12 GREEN 256GB-HIN,94900
+RAJ,Kota Store,KOTA-CAP,1.94E+11,iPhone 12 64GB Purple,IPHONE 12 PURPLE 64GB-HIN,79900
+RAJ,Kota Store,KOTA-DEMO,1.94E+11,iPhone 12 128GB Purple,IPHONE 12 PURPLE 128GB-HIN,84900
+RAJ,Kota Store,KOTA-DOA,1.94E+11,iPhone 12 256GB Purple,IPHONE 12 PURPLE 256GB-HIN,94900
+RAJ,Kota Store,KOTA-OK,1.94E+11,iPhone 12 mini 64GB Black,IPHONE 12 MINI BLACK 64GB-HIN,69900
+RAJ,Kotri Road Tresor Service,KOTA-SERV,1.94E+11,iPhone 12 mini 64GB White,IPHONE 12 MINI WHITE 64GB-HIN,69900
+PNB,Jalandhar Store,MDLT-DEMO,1.94E+11,iPhone 12 mini 64GB (PRODUCT)RED,IPHONE 12 MINI RED 64GB-HIN,69900
+PNB,Jalandhar Store,MDLT-DOA,1.94E+11,iPhone 12 mini 64GB Blue,IPHONE 12 MINI BLUE 64GB-HIN,69900
+PNB,Jalandhar Store,MDLT-JLD,1.94E+11,iPhone 12 mini 64GB Green,IPHONE 12 MINI GREEN 64GB-HIN,69900
+HRY,Sohna Road,MGF-SOHNA,1.94E+11,iPhone 12 mini 128GB Black,IPHONE 12 MINI BLACK 128GB-HIN,74900
+RAJ,Jodhpur Store,MIR-JDHOK,1.94E+11,iPhone 12 mini 128GB White,IPHONE 12 MINI WHITE 128GB-HIN,74900
+RAJ,Triton Store,MIR-JPROK,1.94E+11,iPhone 12 mini 128GB (PRODUCT)RED,IPHONE 12 MINI RED 128GB-HIN,74900
+RAJ,WTP Store,MIR-JPRWTP,1.94E+11,iPhone 12 mini 128GB Blue,IPHONE 12 MINI BLUE 128GB-HIN,74900
+RAJ,Kota Store,MIR-KOTA,1.94E+11,iPhone 12 mini 128GB Green,IPHONE 12 MINI GREEN 128GB-HIN,74900
+RAJ,Udaipur Store,MIR-UDROK,1.94E+11,iPhone 12 mini 256GB Black,IPHONE 12 MINI BLACK 256GB-HIN,84900
+PNB,The Mall Road Amritsar,MROAD-DEMO,1.94E+11,iPhone 12 mini 256GB White,IPHONE 12 MINI WHITE 256GB-HIN,84900
+PNB,Amritsar Service Center,MROAD-OA,1.94E+11,iPhone 12 mini 256GB (PRODUCT)RED,IPHONE 12 MINI RED 256GB-HIN,84900
+PNB,The Mall Road Amritsar,MROAD-PJB,1.94E+11,iPhone 12 mini 256GB Blue,IPHONE 12 MINI BLUE 256GB-HIN,84900
+PNB,Amritsar Service Center,MROAD-SERV,1.94E+11,iPhone 12 mini 256GB Green,IPHONE 12 MINI GREEN 256GB-HIN,84900
+UTP,Noida Service,NDA-DEMO,1.94E+11,iPhone 12 mini 64GB Purple,IPHONE 12 MINI PURPLE 64GB-HIN,69900
+UTP,Noida Service,NDA-OA,1.94E+11,iPhone 12 mini 128GB Purple,IPHONE 12 MINI PURPLE 128GB-HIN,74900
+UTP,Noida Service,ND-SALES,1.94E+11,iPhone 12 mini 256GB Purple,IPHONE 12 MINI PURPLE 256GB-HIN,84900
+WBL,Park Street,PARK-DEMO,1.90E+11,iPhone 11 Pro 64GB Space Grey,IPHONE 11 PRO SG 64GB-HIN,106600
+WBL,Park Street,PARK-DOA,1.90E+11,iPhone 11 Pro 64GB Silver,IPHONE 11 PRO SLVR 64GB-HIN,106600
+WBL,Park Street,PARK-KOL,1.90E+11,iPhone 11 Pro 64GB Gold,IPHONE 11 PRO GLD 64GB-HIN,106600
+PNB,Amritsar Store,PJB-CAP,1.90E+11,iPhone 11 Pro 64GB Midnight Green,IPHONE 11 PRO MD GRN 64GB-HIN,106600
+DEL,Punjabi Bagh Service,PJB-OA,1.90E+11,iPhone 11 Pro 256GB Space Grey,IPHONE 11 PRO SG 256GB-HIN,116600
+DEL,Punjabi Bagh Service,PJB-SERV,1.90E+11,iPhone 11 Pro 256GB Silver,IPHONE 11 PRO SLVR 256GB-HIN,116600
+DEL,Punjabi Bagh Service Demo,PJBSR-DEMO,1.90E+11,iPhone 11 Pro 256GB Gold,IPHONE 11 PRO GLD 256GB-HIN,116600
+HRY,Panchkula Store,PNCK-DEMO,1.90E+11,iPhone 11 Pro 256GB Midnight Green,IPHONE 11 PRO MD GRN 256GB-HIN,116600
+HRY,Panchkula Store,PNCK-DOA,1.90E+11,iPhone 11 Pro 512GB Space Grey,IPHONE 11 PRO SG 512GB-HIN,136600
+HRY,Panchkula Store,PNCK-HR,1.90E+11,iPhone 11 Pro 512GB Silver,IPHONE 11 PRO SLVR 512GB-HIN,136600
+HRY,Panchkula Service Center,PNCK-OA,1.90E+11,iPhone 11 Pro 512GB Gold,IPHONE 11 PRO GLD 512GB-HIN,136600
+HRY,Panchkula Service Center,PNCK-SERV,1.90E+11,iPhone 11 Pro 512GB Midnight Green,IPHONE 11 PRO MD GRN 512GB-HIN,136600
+HRY,Panipat Store,PNPT-DEMO,1.94E+11,iPhone 11 64GB Black,IPHONE 11 BLACK 64GB-HIN,54900
+HRY,Panipat Store,PNPT-HR,1.94E+11,iPhone 11 64GB White,IPHONE 11 WHITE 64GB-HIN,54900
+HRY,Panipat Store,PNPT-OA,1.94E+11,iPhone 11 64GB (PRODUCT)RED,IPHONE 11 RED 64GB-HIN,54900
+HRY,Panipat Service,PNPT-SERV,1.94E+11,iPhone 11 64GB Yellow,IPHONE 11 YELLOW 64GB-HIN,54900
+DEL,MGF Store,SAKET-GGN,1.94E+11,iPhone 11 64GB Purple,IPHONE 11 PURPLE 64GB-HIN,54900
+DEL,WTP Store,SAKET-WTP,1.94E+11,iPhone 11 64GB Green,IPHONE 11 GREEN 64GB-HIN,54900
+WBL,SCM Kolkata,SCM-DEMO,1.94E+11,iPhone 11 128GB Black,IPHONE 11 BLACK 128GB-HIN,59900
+WBL,SCM Kolkata,SCM-DOA,1.94E+11,iPhone 11 128GB White,IPHONE 11 WHITE 128GB-HIN,59900
+WBL,SCM Kolkata,SCM-KOL,1.94E+11,iPhone 11 128GB (PRODUCT)RED,IPHONE 11 RED 128GB-HIN,59900
+CHD,35C Chandigarh,SCO-CHD,1.94E+11,iPhone 11 128GB Yellow,IPHONE 11 YELLOW 128GB-HIN,59900
+CHD,35C Chandigarh,SCO-DEMO,1.94E+11,iPhone 11 128GB Purple,IPHONE 11 PURPLE 128GB-HIN,59900
+CHD,35C Chandigarh,SCO-DOA,1.94E+11,iPhone 11 128GB Green,IPHONE 11 GREEN 128GB-HIN,59900
+DEL,Delhi Service,SC-SALES,1.94E+11,iPhone 11 256GB Black,IPHONE 11 BLACK 256GB-HIN,69900
+DEL,Select City Walk Store,SKT-CAP,1.94E+11,iPhone 11 256GB White,IPHONE 11 WHITE 256GB-HIN,69900
+DEL,Triton Store,SKT-JPROK,1.94E+11,iPhone 11 256GB (PRODUCT)RED,IPHONE 11 RED 256GB-HIN,69900
+DEL,Gurgaon Service,SKT-SPOINT,1.94E+11,iPhone 11 256GB Yellow,IPHONE 11 YELLOW 256GB-HIN,69900
+UTP,SMB ALLAHABAD,SMB-ALBD,1.94E+11,iPhone 11 256GB Purple,IPHONE 11 PURPLE 256GB-HIN,69900
+PNB,SMB AMRITSAR,SMB-AMRT,1.94E+11,iPhone 11 256GB Green,IPHONE 11 GREEN 256GB-HIN,69900
+DEL,SMB CONNAUGHT PLACE,SMB-CP,1.90E+11,iPhone 11 64GB Black,IPHONE 11 BLACK 64GB-HIN,54900
+DEL,SMB Delhi Service,SMB-DELS,1.90E+11,iPhone 11 64GB White,IPHONE 11 WHITE 64GB-HIN,54900
+WBL,SMB ELGIN KOLKATA,SMB-ELG,1.90E+11,iPhone 11 64GB (PRODUCT)RED,IPHONE 11 RED 64GB-HIN,54900
+CHD,SMB ELANTE MALL,SMB-EM,1.90E+11,iPhone 11 64GB Yellow,IPHONE 11 YELLOW 64GB-HIN,54900
+RAJ,SMB JODHPUR,SMB-JDH,1.90E+11,iPhone 11 64GB Purple,IPHONE 11 PURPLE 64GB-HIN,54900
+JNK,SMB JAMMU,SMB-JMU,1.90E+11,iPhone 11 64GB Green,IPHONE 11 GREEN 64GB-HIN,54900
+RAJ,SMB KOTA,SMB-KOTA,1.90E+11,iPhone 11 128GB Black,IPHONE 11 BLACK 128GB-HIN,59900
+PNB,SMB JALANDHAR,SMB-MDLT,1.90E+11,iPhone 11 128GB White,IPHONE 11 WHITE 128GB-HIN,59900
+HRY,SMB MGF,SMB-MGF,1.90E+11,iPhone 11 128GB (PRODUCT)RED,IPHONE 11 RED 128GB-HIN,59900
+RAJ,SMB MIROAD,SMB-MIR,1.90E+11,iPhone 11 128GB Yellow,IPHONE 11 YELLOW 128GB-HIN,59900
+UTP,SMB MEERUT,SMB-MRT,1.90E+11,iPhone 11 128GB Purple,IPHONE 11 PURPLE 128GB-HIN,59900
+UTP,SMB Noida,SMB-NDA,1.90E+11,iPhone 11 128GB Green,IPHONE 11 GREEN 128GB-HIN,59900
+WBL,SMB PARK STREET,SMB-PARKOL,1.90E+11,iPhone 11 256GB Black,IPHONE 11 BLACK 256GB-HIN,69900
+DEL,SMB PUNJABI BAGH,SMB-PJB,1.90E+11,iPhone 11 256GB White,IPHONE 11 WHITE 256GB-HIN,69900
+HRY,SMB PANCHKULA,SMB-PNCK,1.90E+11,iPhone 11 256GB (PRODUCT)RED,IPHONE 11 RED 256GB-HIN,69900
+DEL,SMB PVR,SMB-PVR,1.90E+11,iPhone 11 256GB Yellow,IPHONE 11 YELLOW 256GB-HIN,69900
+WBL,SMB SCM,SMB-SCM,1.90E+11,iPhone 11 256GB Purple,IPHONE 11 PURPLE 256GB-HIN,69900
+CHD,SMB SCO ,SMB-SCO,1.90E+11,iPhone 11 256GB Green,IPHONE 11 GREEN 256GB-HIN,69900
+DEL,SMB Saket store,SMB-SCW,1.94E+11,iPhone SE 64GB Black,IPHONE SE BLACK 64GB-HIN,39900
+HRY,SMB SOHNA,SMB-SOHNA,1.94E+11,iPhone SE 64GB White,IPHONE SE WHITE 64GB-HIN,39900
+WBL,SMB SPM,SMB-SPM,1.94E+11,iPhone SE 64GB (PRODUCT)RED,IPHONE SE RED 64GB-HIN,39900
+HRY,SMB South point mall,SMB-SPNT,1.94E+11,iPhone SE 128GB Black,IPHONE SE BLACK 128GB-HIN,44900
+RAJ,SMB Triton Mall,SMB-TRT,1.94E+11,iPhone SE 128GB White,IPHONE SE WHITE 128GB-HIN,44900
+RAJ,SMB UDAIPUR,SMB-UDR,1.94E+11,iPhone SE 128GB (PRODUCT)RED,IPHONE SE RED 128GB-HIN,44900
+HRY,SMB WORLDMARK,SMB-WM,1.94E+11,iPhone SE 256GB Black,IPHONE SE BLACK 256GB-HIN,54900
+RAJ,SMB WTP,SMB-WTP,1.94E+11,iPhone SE 256GB White,IPHONE SE WHITE 256GB-HIN,54900
+HRY,Sohna Road,SOHNA-DEMO,1.94E+11,iPhone SE 256GB (PRODUCT)RED,IPHONE SE RED 256GB-HIN,54900
+HRY,Sohna Road,SOHNA-DOA,1.94E+11,iPhone XR 64GB Black,IPHONE XR BLACK 64GB-HIN,47900
+HRY,MGF Store,SOHNA-MGF,1.94E+11,iPhone XR 64GB White,IPHONE XR WHITE 64GB-HIN,47900
+HRY,Gurgaon Service,SOHNA-SPNT,1.94E+11,iPhone XR 64GB (PRODUCT)RED,IPHONE XR RED 64GB-HIN,47900
+WBL,SPM Kolkata,SPM-DEMO,1.94E+11,iPhone XR 64GB Yellow,IPHONE XR YELLOW 64GB-HIN,47900
+WBL,SPM Kolkata,SPM-DOA,1.94E+11,iPhone XR 64GB Blue,IPHONE XR BLUE 64GB-HIN,47900
+WBL,SPM Kolkata,SPM-KOL,1.94E+11,iPhone XR 128GB Black,IPHONE XR BLACK 128GB-HIN,52900
+HRY,Gurgaon Service,SPNT-DEMO,1.94E+11,iPhone XR 128GB White,IPHONE XR WHITE 128GB-HIN,52900
+HRY,Gurgaon Service,SPNT-OA,1.94E+11,iPhone XR 128GB (PRODUCT)RED,IPHONE XR RED 128GB-HIN,52900
+HRY,Gurgaon Service,SP-SALES,1.94E+11,iPhone XR 128GB Yellow,IPHONE XR YELLOW 128GB-HIN,52900
+HRY,test location,TEST,1.94E+11,iPhone XR 128GB Blue,IPHONE XR BLUE 128GB-HIN,52900
+RAJ,Udaipur Store,UDR-CAP,1.90E+11,iPhone XR 64GB Black,IPHONE XR BLACK 64GB-HIN,47900
+RAJ,Udaipur Store,UDR-DEMO,1.90E+11,iPhone XR 64GB White,IPHONE XR WHITE 64GB-HIN,47900
+RAJ,Udaipur Store,UDR-DOA,1.90E+11,iPhone XR 64GB (PRODUCT)RED,IPHONE XR RED 64GB-HIN,47900
+RAJ,Kota Store,UDR-KOTA,1.90E+11,iPhone XR 64GB Yellow,IPHONE XR YELLOW 64GB-HIN,47900
+RAJ,Udaipur Service,UDR-OA,1.90E+11,iPhone XR 64GB Coral,IPHONE XR CORAL 64GB-HIN,47900
+RAJ,Udaipur Store,UDR-OK,1.90E+11,iPhone XR 128GB Black,IPHONE XR BLACK 128GB-HIN,52900
+RAJ,Udaipur Service,UDRSER-DEM,1.90E+11,iPhone XR 64GB Blue,IPHONE XR BLUE 64GB-HIN,47900
+RAJ,Udaipur Service,UDR-SERV,1.90E+11,iPhone XR 128GB White,IPHONE XR WHITE 128GB-HIN,52900
+UTP,Allahabad Store,UP-ALBD,1.90E+11,iPhone XR 128GB (PRODUCT)RED,IPHONE XR RED 128GB-HIN,52900
+UTP,Allahabad Store,UPALBD-DEM,1.90E+11,iPhone XR 128GB Yellow,IPHONE XR YELLOW 128GB-HIN,52900
+UTP,Allahabad Store,UP-ALBDDOA,1.90E+11,iPhone XR 128GB Coral,IPHONE XR CORAL 128GB-HIN,52900
+UTP,Allahabad Store,UP-CAP,1.90E+11,iPhone XR 128GB Blue,IPHONE XR BLUE 128GB-HIN,52900
+UTP,Meerut Store,UP-MRT,8.88E+11,Apple 30-pin to USB Cable,30-PIN TO USB CABLE-ZML,1800
+UTP,Meerut Store,UPMRT-DEM,8.86E+11,Apple iPhone TTY Adapter,IPHONE TTY ADAPTER-GEN,1800
+UTP,Meerut Store,UP-MRTDOA,8.86E+11,Lightning to USB Cable (2 m),LIGHTNING TO USB CABLE (2 M)-ZML,2900
+UTP,Noida Service,UP-NDA,8.86E+11,Lightning to Micro USB Adapter,LIGHTNING TO MICRO USB ADAPTER-ZML,1800
+HRY,Worldmark Store,WM-DEMO,8.86E+11,Lightning to VGA Adapter,LIGHTNING TO VGA ADAPTER-ZML,4900
+HRY,Worldmark Service,WM-SERV,8.86E+11,Lightning to Digital AV Adapter,LIGHTNING DIGITAL AV ADAPTER-ZML,4900
+HRY,Worldmark Store,WMS-OA,8.86E+11,Apple World Travel Adapter Kit,WORLD TRAVEL ADAPTER KIT-ZML,2900
+RAJ,WTP Store,WTP-CAP,8.86E+11,Lightning to USB Cable (0.5 m),LIGHTNING TO USB CABLE (0.5 M)-ZML,1800
+RAJ,WTP Store,WTP-DOA,1.94E+11,Apple 12W USB Power Adapter,12W USB POWER ADAPTER-HIN,1900
+RAJ,WTP Store,WTP-GGN,1.94E+11,AirPods Max - Space Gray,AIRPODS MAX SPACE GRAY-HIN,59900
+RAJ,Kota Store,WTP-KOTA,1.94E+11,AirPods Max - Silver,AIRPODS MAX SILVER-HIN,59900
+RAJ,Select City Walk Store,WTP-SAKET,1.94E+11,AirPods Max - Sky Blue,AIRPODS MAX SKY BLUE-HIN,59900
 iPhone,Apple iPhone Accessories,MGYM3HN/A,1.94E+11,AirPods Max - Pink,AIRPODS MAX PINK-HIN,59900
 iPhone,Apple iPhone Accessories,MGYN3HN/A,1.94E+11,AirPods Max - Green,AIRPODS MAX GREEN-HIN,59900
 iPhone,Apple iPhone Accessories,MHJ03ZM/A,1.94E+11,AirTag Loop - Deep Navy,AIRTAG LOOP DEEP NAVY-ZML,2990
